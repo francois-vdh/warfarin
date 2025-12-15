@@ -1,0 +1,2876 @@
+
+================================================================================
+CLUSTER 0 (N=12 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **3.000** | WARFARIN SODIUM / 12 ✅ |
+| 2    | GLIMEPIRIDE / **3.000** | METFORMIN HYDROCHLORIDE / 12  |
+| 3    | METFORMIN HYDROCHLORIDE / **3.000** | GLIMEPIRIDE / 12  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Dehydration / **3.000** | Dysstasia / 12  |
+| 2    | Hypoglycaemia / **3.000** | Hypoglycaemia / 12 ✅ |
+| 3    | Tremor / **3.000** | Tremor / 12 ✅ |
+
+### FAERS Report IDs:
+14146805 | 14151913 | 14170482 | 14171072 | 14172507 | 14176678 | 14176710 | 14177282 | 14197733 | 14583139
+14615630 | 14615738
+
+================================================================================
+CLUSTER 1 (N=16 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **5.700** | WARFARIN / 16 ✅ |
+| 2    | OMEPRAZOLE / **5.300** | OMEPRAZOLE / 15 ✅ |
+| 3    | SULFAMETHOXAZOLE_TRIMETHOPRIM / **4.700** | SULFAMETHOXAZOLE_TRIMETHOPRIM / 14 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Lipase increased / **2.900** | Suicide attempt / 11  |
+| 2    | Intentional overdose / **2.800** | Lipase increased / 11  |
+| 3    | Suicide attempt / **2.700** | Intentional overdose / 11  |
+
+### FAERS Report IDs:
+15621041 | 15627384 | 15629765 | 15629948 | 15630941 | 15634936 | 15635239 | 15641550 | 15644912 | 15647237
+15653802 | 15654655 | 15669614 | 15699992 | 15719170 | 15735200
+
+================================================================================
+CLUSTER 2 (N=15 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **1.900** | CLOPIDOGREL BISULFATE / 15  |
+| 2    | RAMIPRIL / **1.900** | WARFARIN / 15  |
+| 3    | ASPIRIN / **1.900** | ASPIRIN / 15 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Subacute cutaneous lupus erythematosus / **13.200** | Subacute cutaneous lupus erythematosus / 15 ✅ |
+| 2    | Lymphopenia / **0.500** | Skin lesion / 1  |
+| 3    | Rash erythematous / **0.300** | Erythema / 1  |
+
+### FAERS Report IDs:
+14435863 | 14466431 | 14517065 | 14556380 | 14572172 | 15200765 | 15210135 | 15212989 | 15246153 | 15258368
+15265330 | 15266268 | 15277628 | 15288816 | 15292149
+
+================================================================================
+CLUSTER 3 (N=14 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | ASPIRIN / **1.400** | ASPIRIN / 13 ✅ |
+| 2    | WARFARIN / **1.300** | WARFARIN / 12 ✅ |
+| 3    | CANAGLIFLOZIN / **1.300** | CANAGLIFLOZIN / 12 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Diabetic ketoacidosis / **13.500** | Diabetic ketoacidosis / 14 ✅ |
+| 2    | Acute kidney injury / **0.500** | Acute kidney injury / 1 ✅ |
+
+### FAERS Report IDs:
+10785359 | 14200131 | 14663116 | 14669203 | 14672171 | 14676800 | 14678531 | 14681677 | 14744603 | 14850254
+14942009 | 14971620 | 15073886 | 15775233
+
+================================================================================
+CLUSTER 4 (N=17 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | FLUCONAZOLE / **8.600** | FLUCONAZOLE / 17 ✅ |
+| 2    | WARFARIN / **5.000** | WARFARIN / 10 ✅ |
+| 3    | WARFARIN SODIUM / **3.500** | WARFARIN SODIUM / 7 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | International normalised ratio increased / **4.700** | International normalised ratio increased / 11 ✅ |
+| 2    | Drug interaction / **3.000** | Drug interaction / 10 ✅ |
+| 3    | Angina bullosa haemorrhagica / **2.000** | Overdose / 5  |
+
+### FAERS Report IDs:
+14481267 | 14494345 | 14494633 | 15488564 | 15516770 | 15549528 | 15553445 | 15554027 | 15559434 | 15576384
+15577568 | 15579336 | 15582965 | 15583678 | 15596885 | 15819579 | 15851892
+
+================================================================================
+CLUSTER 5 (N=13 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **1.700** | WARFARIN SODIUM / 13 ✅ |
+| 2    | DIGOXIN / **1.200** | DIGOXIN / 9 ✅ |
+| 3    | TRAZODONE HYDROCHLORIDE / **1.100** | TRAZODONE HYDROCHLORIDE / 7 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Sopor / **13.000** | Sopor / 13 ✅ |
+
+### FAERS Report IDs:
+14110838 | 14672677 | 14674429 | 15019319 | 15096464 | 15100428 | 15182198 | 15388413 | 15395397 | 15399890
+15408565 | 15662390 | 15685704
+
+================================================================================
+CLUSTER 6 (N=16 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | LINEZOLID / **7.900** | LINEZOLID / 16 ✅ |
+| 2    | WARFARIN / **5.000** | WARFARIN / 10 ✅ |
+| 3    | WARFARIN SODIUM / **2.800** | WARFARIN SODIUM / 6 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Drug interaction / **3.500** | Drug interaction / 10 ✅ |
+| 2    | International normalised ratio increased / **3.300** | International normalised ratio increased / 9 ✅ |
+| 3    | Thrombocytopenia / **1.800** | Thrombocytopenia / 8 ✅ |
+
+### FAERS Report IDs:
+13911354 | 13916337 | 13936776 | 13943913 | 14881804 | 15077455 | 15235262 | 15235263 | 15235265 | 15235266
+15235267 | 15235269 | 15544790 | 15586346 | 15686176 | 15694535
+
+================================================================================
+CLUSTER 7 (N=26 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | LEVOFLOXACIN / **9.800** | LEVOFLOXACIN / 26 ✅ |
+| 2    | WARFARIN SODIUM / **7.000** | RIVAROXABAN / 19  |
+| 3    | RIVAROXABAN / **6.400** | WARFARIN SODIUM / 19  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Drug interaction / **5.700** | Drug interaction / 21 ✅ |
+| 2    | Quadriplegia / **4.000** | Quadriplegia / 16 ✅ |
+| 3    | Spinal cord haematoma / **2.800** | Spinal cord haematoma / 10 ✅ |
+
+### FAERS Report IDs:
+14251822 | 14258381 | 14258725 | 14261892 | 14262948 | 14268985 | 14269284 | 14271722 | 14271958 | 14279961
+14282258 | 14284221 | 14285877 | 14288301 | 14314808 | 14321231 | 14333980 | 14342724 | 14413434 | 15074207
+15088521 | 15138843 | 15183639 | 15231249 | 15497559 | 15613450
+
+================================================================================
+CLUSTER 8 (N=18 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | ONDANSETRON / **2.200** | ONDANSETRON / 18 ✅ |
+| 2    | CITALOPRAM HYDROBROMIDE / **2.100** | CITALOPRAM HYDROBROMIDE / 18 ✅ |
+| 3    | TRAMADOL / **2.000** | CLONAZEPAM / 17  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Serotonin syndrome / **6.100** | Serotonin syndrome / 18 ✅ |
+| 2    | Drug prescribing error / **4.000** | Drug prescribing error / 12 ✅ |
+| 3    | Condition aggravated / **2.900** | Condition aggravated / 10 ✅ |
+
+### FAERS Report IDs:
+14953100 | 14953358 | 14956020 | 14957891 | 14960055 | 14962042 | 14963294 | 14964930 | 14967657 | 14968470
+14974280 | 14984939 | 14987411 | 14988485 | 14992433 | 14993506 | 14994193 | 15012927
+
+================================================================================
+CLUSTER 9 (N=62 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | BACLOFEN / **1.500** | ALENDRONATE SODIUM / 62  |
+| 2    | DULOXETINE HYDROCHLORIDE / **1.500** | LORATADINE / 62  |
+| 3    | LORATADINE / **1.500** | BACLOFEN / 62  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Gastrooesophageal reflux disease / **14.700** | Coma / 62  |
+| 2    | Pneumonia aspiration / **14.400** | Gastrooesophageal reflux disease / 62  |
+| 3    | Coma / **14.300** | Pneumonia aspiration / 62  |
+
+### FAERS Report IDs:
+10014432 | 10052724 | 10355873 | 10500934 | 10704833 | 11090837 | 11098670 | 11308027 | 11520740 | 11715497
+12070272 | 12267445 | 12520402 | 12639224 | 12673518 | 12980200 | 13046038 | 13792481 | 14084984 | 14212028
+14297001 | 14392008 | 14514261 | 14517798 | 14529545 | 14549461 | 14558820 | 14562445 | 14725554 | 14822525
+14822727 | 14830102 | 15100607 | 15100670 | 15139742 | 15192225 | 15336358 | 15336361 | 15336363 | 15339394
+15364427 | 15456703 | 15552825 | 15740985 | 15752789 | 15757355 | 15758483 | 15762388 | 15776402 | 15777764
+15793734 | 15793765 | 15793769 | 15793823 | 15793829 | 15797081 | 15803216 | 15803410 | 15803569 | 15803754
+15803974 | 15808328
+
+================================================================================
+CLUSTER 10 (N=18 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | SIMVASTATIN / **2.300** | SIMVASTATIN / 18 ✅ |
+| 2    | CYCLOSPORINE / **2.200** | CYCLOSPORINE / 17 ✅ |
+| 3    | PREDNISOLONE / **1.800** | PREDNISOLONE / 15 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Drug interaction / **3.300** | Rhabdomyolysis / 18  |
+| 2    | Rhabdomyolysis / **3.200** | Drug interaction / 18  |
+| 3    | Rhinitis / **2.900** | Pharyngitis / 16  |
+
+### FAERS Report IDs:
+14770056 | 14821126 | 14841450 | 14846666 | 14850072 | 14966649 | 14974380 | 14999007 | 15002463 | 15014427
+15027456 | 15073193 | 15135326 | 15220325 | 15246786 | 15440408 | 15668364 | 15698077
+
+================================================================================
+CLUSTER 11 (N=48 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | EVOLOCUMAB / **22.800** | EVOLOCUMAB / 48 ✅ |
+| 2    | WARFARIN SODIUM / **14.500** | WARFARIN SODIUM / 29 ✅ |
+| 3    | WARFARIN / **8.200** | WARFARIN / 19 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Injection site bruising / **15.900** | Injection site bruising / 30 ✅ |
+| 2    | Injection site pain / **5.100** | Injection site pain / 14 ✅ |
+| 3    | Injection site haemorrhage / **3.400** | Injection site haemorrhage / 9 ✅ |
+
+### FAERS Report IDs:
+12291750 | 12870529 | 13479243 | 13480463 | 13482454 | 13806887 | 13809352 | 13812221 | 14129578 | 14130605
+14131126 | 14135254 | 14139016 | 14178334 | 14190000 | 14357257 | 14358059 | 14428128 | 14428435 | 14429233
+14429778 | 14440676 | 14441919 | 14466729 | 14556529 | 14795671 | 14808100 | 14809779 | 14810042 | 14810252
+14811577 | 14811734 | 14934012 | 14988750 | 15063568 | 15063816 | 15171953 | 15172009 | 15173801 | 15174002
+15176837 | 15193021 | 15246911 | 15520969 | 15521627 | 15521691 | 15527804 | 15529285
+
+================================================================================
+CLUSTER 12 (N=13 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | PREGABALIN / **0.400** | PREGABALIN / 12 ✅ |
+| 2    | FOLIC ACID / **0.300** | INSULIN GLARGINE / 11  |
+| 3    | NITROGLYCERIN / **0.300** | AZATHIOPRINE / 11  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Dermatitis bullous / **13.000** | Dermatitis bullous / 13 ✅ |
+
+### FAERS Report IDs:
+12776130 | 13878757 | 13891102 | 13915545 | 13916341 | 13919004 | 14199003 | 14337664 | 14353698 | 14410395
+14448082 | 14481637 | 14536151
+
+================================================================================
+CLUSTER 13 (N=18 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | LENALIDOMIDE / **1.600** | LENALIDOMIDE / 15 ✅ |
+| 2    | WARFARIN / **1.500** | WARFARIN / 14 ✅ |
+| 3    | DEXAMETHASONE / **0.900** | DEXAMETHASONE / 9 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Plasma cell myeloma / **18.000** | Plasma cell myeloma / 18 ✅ |
+
+### FAERS Report IDs:
+13131996 | 14226894 | 14227545 | 14310261 | 14553182 | 14559712 | 14679619 | 14703799 | 14713588 | 14917257
+15116491 | 15188213 | 15453563 | 15491288 | 15506503 | 15568040 | 15618774 | 15658402
+
+================================================================================
+CLUSTER 14 (N=15 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **2.700** | WARFARIN SODIUM / 11 ✅ |
+| 2    | WARFARIN / **0.500** | GABAPENTIN / 7  |
+| 3    | GABAPENTIN / **0.500** | PRAVASTATIN / 6  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Pruritus / **15.000** | Pruritus / 15 ✅ |
+
+### FAERS Report IDs:
+12927374 | 14078805 | 14081222 | 14083365 | 14417892 | 14633397 | 14757858 | 14893114 | 14907978 | 14990033
+15256094 | 15302156 | 15361759 | 15618161 | 15670351
+
+================================================================================
+CLUSTER 15 (N=21 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | INFLUENZA VIRUS VACCINE / **10.000** | INFLUENZA VIRUS VACCINE / 20 ✅ |
+| 2    | WARFARIN SODIUM / **5.500** | WARFARIN SODIUM / 11 ✅ |
+| 3    | WARFARIN / **4.500** | WARFARIN / 9 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Drug interaction / **6.800** | Drug interaction / 20 ✅ |
+| 2    | International normalised ratio increased / **3.100** | International normalised ratio increased / 12 ✅ |
+| 3    | Coagulopathy / **2.100** | Coagulopathy / 6 ✅ |
+
+### FAERS Report IDs:
+14597367 | 14725691 | 14765132 | 14766385 | 14767382 | 14788947 | 14819843 | 14825693 | 14974375 | 14974379
+14975319 | 14975320 | 15028168 | 15033979 | 15058300 | 15131054 | 15131602 | 15159094 | 15204322 | 15355517
+15538515
+
+================================================================================
+CLUSTER 16 (N=12 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | INFLUENZA VIRUS VACCINE / **1.400** | BISOPROLOL / 12  |
+| 2    | OMEPRAZOLE / **1.400** | OMEPRAZOLE / 12 ✅ |
+| 3    | LACTULOSE / **1.400** | PREDNISOLONE / 12  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Urinary tract infection / **1.800** | Haematuria / 12  |
+| 2    | Platelet count decreased / **1.800** | Urinary tract infection / 12  |
+| 3    | Haematuria / **1.800** | Platelet count decreased / 12  |
+
+### FAERS Report IDs:
+14754262 | 14797766 | 14860935 | 14900502 | 14901693 | 14908102 | 14974378 | 14989057 | 14995503 | 15125441
+15204569 | 15456640
+
+================================================================================
+CLUSTER 17 (N=26 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | CLOMIPRAMINE / **2.800** | CLOMIPRAMINE / 26 ✅ |
+| 2    | METFORMIN HYDROCHLORIDE / **2.800** | METFORMIN HYDROCHLORIDE / 26 ✅ |
+| 3    | ARIPIPRAZOLE / **2.700** | OLANZAPINE / 25  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Polyuria / **4.100** | Acute kidney injury / 26  |
+| 2    | Hypotension / **4.100** | International normalised ratio abnormal / 26  |
+| 3    | Acute kidney injury / **4.000** | Polyuria / 26  |
+
+### FAERS Report IDs:
+12673610 | 12675092 | 12677427 | 12681901 | 12682781 | 12686610 | 12690224 | 12692548 | 12692900 | 12694890
+12697052 | 14270951 | 14331306 | 14332472 | 14337613 | 14339471 | 14339637 | 14339764 | 14375155 | 14409517
+14482956 | 14496522 | 14524986 | 14596696 | 14819983 | 14968119
+
+================================================================================
+CLUSTER 18 (N=10 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **0.700** | WARFARIN / 6 ✅ |
+| 2    | FUROSEMIDE / **0.400** | FUROSEMIDE / 4 ✅ |
+| 3    | WARFARIN SODIUM / **0.400** | WARFARIN SODIUM / 4 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Peripheral swelling / **6.500** | Peripheral swelling / 7 ✅ |
+| 2    | Oedema peripheral / **3.500** | Oedema peripheral / 4 ✅ |
+
+### FAERS Report IDs:
+13444950 | 13788379 | 14504892 | 14800528 | 14862238 | 15194116 | 15324077 | 15325992 | 15383090 | 15407007
+
+================================================================================
+CLUSTER 19 (N=14 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **1.600** | WARFARIN / 10 ✅ |
+| 2    | RIOCIGUAT / **0.800** | FUROSEMIDE / 8  |
+| 3    | TREPROSTINIL / **0.700** | WARFARIN SODIUM / 4  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Pain / **13.500** | Pain / 14 ✅ |
+| 2    | General physical health deterioration / **0.500** | General physical health deterioration / 1 ✅ |
+
+### FAERS Report IDs:
+12363595 | 12645346 | 14295437 | 14703733 | 14752416 | 14755287 | 14960121 | 14982435 | 15027858 | 15104342
+15300018 | 15383562 | 15640796 | 15686710
+
+================================================================================
+CLUSTER 20 (N=22 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **2.300** | WARFARIN SODIUM / 18 ✅ |
+| 2    | FUROSEMIDE / **2.000** | FUROSEMIDE / 16 ✅ |
+| 3    | BISOPROLOL / **1.200** | ACETAMINOPHEN / 11  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Bradycardia / **14.500** | Bradycardia / 16 ✅ |
+| 2    | Bradyarrhythmia / **6.000** | Bradyarrhythmia / 6 ✅ |
+| 3    | Sinus node dysfunction / **1.500** | Sinus node dysfunction / 3 ✅ |
+
+### FAERS Report IDs:
+14123201 | 14129168 | 14371057 | 14603495 | 14800260 | 14826736 | 14836384 | 14958322 | 15088543 | 15094392
+15181071 | 15245547 | 15345545 | 15434409 | 15434606 | 15463256 | 15466237 | 15466843 | 15478571 | 15483336
+15486377 | 15845741
+
+================================================================================
+CLUSTER 21 (N=12 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | FUROSEMIDE / **1.200** | LORAZEPAM / 12  |
+| 2    | LORAZEPAM / **1.200** | FUROSEMIDE / 12  |
+| 3    | OMEPRAZOLE / **1.100** | OMEPRAZOLE / 12 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Iron deficiency anaemia / **6.400** | Iron deficiency anaemia / 12 ✅ |
+| 2    | Drug interaction / **5.600** | Drug interaction / 11 ✅ |
+
+### FAERS Report IDs:
+14820431 | 14842333 | 14868561 | 14898910 | 14924130 | 15178794 | 15216217 | 15233601 | 15372632 | 15375813
+15411823 | 15425331
+
+================================================================================
+CLUSTER 22 (N=11 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **0.700** | WARFARIN / 6  |
+| 2    | METOPROLOL TARTRATE / **0.700** | METOPROLOL TARTRATE / 5 ✅ |
+| 3    | WARFARIN / **0.500** | WARFARIN SODIUM / 5  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Pancytopenia / **11.000** | Pancytopenia / 11 ✅ |
+
+### FAERS Report IDs:
+14216746 | 15076914 | 15089605 | 15134813 | 15192361 | 15229121 | 15379617 | 15476898 | 15484222 | 15516578
+15516579
+
+================================================================================
+CLUSTER 23 (N=23 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **1.800** | WARFARIN / 17 ✅ |
+| 2    | FUROSEMIDE / **0.900** | FUROSEMIDE / 8 ✅ |
+| 3    | WARFARIN SODIUM / **0.800** | WARFARIN SODIUM / 6 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Disease progression / **23.000** | Disease progression / 23 ✅ |
+
+### FAERS Report IDs:
+11198475 | 14044118 | 14208070 | 14267801 | 14272711 | 14280191 | 14407582 | 14436290 | 14448527 | 14583474
+14590059 | 14590176 | 14653992 | 14800428 | 14895062 | 15122030 | 15131217 | 15195447 | 15211032 | 15355847
+15378435 | 15603148 | 15647955
+
+================================================================================
+CLUSTER 24 (N=11 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | MOCLOBEMIDE / **1.100** | MOCLOBEMIDE / 11 ✅ |
+| 2    | VENLAFAXINE HYDROCHLORIDE / **1.100** | SERTRALINE HYDROCHLORIDE / 11  |
+| 3    | SERTRALINE HYDROCHLORIDE / **1.100** | VENLAFAXINE HYDROCHLORIDE / 11  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Drug interaction / **0.800** | Syncope / 11  |
+| 2    | Fatigue / **0.800** | Apallic syndrome / 11  |
+| 3    | Insomnia / **0.800** | Insomnia / 11 ✅ |
+
+### FAERS Report IDs:
+13708554 | 13771516 | 14083049 | 14567226 | 14573366 | 14685232 | 14690133 | 14764255 | 15124508 | 15278381
+15454724
+
+================================================================================
+CLUSTER 25 (N=10 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | SOTALOL / **2.200** | SOTALOL / 10 ✅ |
+| 2    | GINKGO / **2.000** | GINKGO / 9 ✅ |
+| 3    | SERTRALINE HYDROCHLORIDE / **1.800** | SERTRALINE HYDROCHLORIDE / 8 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Drug interaction / **3.700** | Drug interaction / 10 ✅ |
+| 2    | Ischaemic stroke / **2.000** | Apallic syndrome / 7  |
+| 3    | Apallic syndrome / **2.000** | Ischaemic stroke / 7  |
+
+### FAERS Report IDs:
+14874559 | 14895603 | 14923638 | 14929780 | 14964045 | 14966964 | 14970815 | 15122801 | 15238946 | 15636361
+
+================================================================================
+CLUSTER 26 (N=14 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **2.000** | WARFARIN SODIUM / 8 ✅ |
+| 2    | FUROSEMIDE / **0.700** | WARFARIN / 6  |
+| 3    | SIMVASTATIN / **0.600** | FUROSEMIDE / 6  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Renal impairment / **14.000** | Renal impairment / 14 ✅ |
+
+### FAERS Report IDs:
+14466226 | 14553215 | 14726691 | 14946896 | 14950652 | 14968174 | 14996240 | 15084238 | 15192035 | 15388730
+15471123 | 15481239 | 15535307 | 15554600
+
+================================================================================
+CLUSTER 27 (N=49 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **8.800** | WARFARIN / 44 ✅ |
+| 2    | DILTIAZEM / **3.900** | DILTIAZEM / 15 ✅ |
+| 3    | LISINOPRIL / **2.500** | LISINOPRIL / 14 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Completed suicide / **49.000** | Completed suicide / 49 ✅ |
+
+### FAERS Report IDs:
+12156977 | 12174595 | 12177486 | 12186218 | 12189890 | 14269572 | 14281675 | 14289906 | 14290243 | 14290346
+14298048 | 14310937 | 14316291 | 14316308 | 14319302 | 14320668 | 14322911 | 14329691 | 14329852 | 14331459
+14332381 | 14334783 | 14336212 | 14355686 | 14381723 | 14384319 | 14384584 | 14385099 | 14398509 | 14435064
+14450669 | 14556560 | 14571061 | 14662558 | 14668319 | 15763529 | 15773916 | 15773980 | 15790777 | 15791017
+15795531 | 15798715 | 15803914 | 15834674 | 15834896 | 15836404 | 15837039 | 15842083 | 15842123
+
+================================================================================
+CLUSTER 28 (N=18 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **1.400** | WARFARIN / 12 ✅ |
+| 2    | WARFARIN SODIUM / **0.600** | WARFARIN SODIUM / 6 ✅ |
+| 3    | FOLIC ACID / **0.600** | CHOLECALCIFEROL / 4  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Drug dose omission / **16.000** | Drug dose omission / 16 ✅ |
+| 2    | Product dose omission / **2.000** | Product dose omission / 2 ✅ |
+
+### FAERS Report IDs:
+13150210 | 13855523 | 14072725 | 14274617 | 14347985 | 14445757 | 14482129 | 14974868 | 14983875 | 15127668
+15207940 | 15219263 | 15286381 | 15292720 | 15307401 | 15395354 | 15587102 | 15638219
+
+================================================================================
+CLUSTER 29 (N=41 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | ACETAMINOPHEN / **20.400** | ACETAMINOPHEN / 41 ✅ |
+| 2    | WARFARIN / **14.100** | WARFARIN / 28 ✅ |
+| 3    | WARFARIN SODIUM / **6.500** | WARFARIN SODIUM / 13 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Drug administration error / **15.300** | Drug administration error / 20 ✅ |
+| 2    | Incorrect dose administered / **13.100** | Incorrect dose administered / 20 ✅ |
+| 3    | Inappropriate schedule of drug administration / **2.400** | Product use in unapproved indication / 6  |
+
+### FAERS Report IDs:
+11992332 | 12158736 | 14070764 | 14073064 | 14073094 | 14073095 | 14073104 | 14073122 | 14073155 | 14073182
+14073488 | 14073594 | 14073864 | 14234542 | 14234556 | 14234561 | 14234626 | 14234639 | 14234652 | 14236936
+14503503 | 14503518 | 14504271 | 14504408 | 14504511 | 14504564 | 14504567 | 14569972 | 14589092 | 14651471
+14761742 | 14777276 | 14954839 | 14976693 | 15170610 | 15415703 | 15630140 | 15630505 | 15745491 | 15769306
+15774661
+
+================================================================================
+CLUSTER 30 (N=11 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | FUROSEMIDE / **1.900** | NEBIVOLOL / 11  |
+| 2    | ROSUVASTATIN / **1.800** | ROSUVASTATIN / 11 ✅ |
+| 3    | RAMIPRIL / **1.800** | RAMIPRIL / 11 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | International normalised ratio increased / **5.500** | Cerebral haematoma / 11  |
+| 2    | Cerebral haematoma / **5.500** | International normalised ratio increased / 11  |
+
+### FAERS Report IDs:
+14633453 | 14660170 | 14663120 | 14666166 | 14668501 | 14671503 | 14672303 | 14732609 | 14948643 | 14954017
+14964364
+
+================================================================================
+CLUSTER 31 (N=15 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | ZOLPIDEM_ZOLPIDEM TARTRATE / **1.900** | ZOLPIDEM_ZOLPIDEM TARTRATE / 15 ✅ |
+| 2    | CHOLECALCIFEROL / **1.600** | CHOLECALCIFEROL / 13 ✅ |
+| 3    | WARFARIN SODIUM / **1.600** | WARFARIN SODIUM / 13 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Cholestasis / **3.000** | Cell death / 15  |
+| 2    | Urticaria / **3.000** | Cholestasis / 15  |
+| 3    | Cell death / **3.000** | Urticaria / 15  |
+
+### FAERS Report IDs:
+13558173 | 13566417 | 14272322 | 14297380 | 14328512 | 14330121 | 14331309 | 14332654 | 14333584 | 14370911
+14370924 | 14371300 | 14374170 | 14375916 | 14383218
+
+================================================================================
+CLUSTER 32 (N=18 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **2.300** | WARFARIN / 9 ✅ |
+| 2    | WARFARIN SODIUM / **1.300** | WARFARIN SODIUM / 7 ✅ |
+| 3    | TREPROSTINIL / **1.000** | FUROSEMIDE / 4  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Urinary tract infection / **18.000** | Urinary tract infection / 18 ✅ |
+
+### FAERS Report IDs:
+13564137 | 13963233 | 14051789 | 14147384 | 14210336 | 14306111 | 14476259 | 14477521 | 14587025 | 14740195
+14795442 | 15058775 | 15327722 | 15409564 | 15523030 | 15670602 | 15791678 | 15818695
+
+================================================================================
+CLUSTER 33 (N=21 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | AMLODIPINE BESYLATE / **5.300** | GABAPENTIN / 21  |
+| 2    | GABAPENTIN / **5.300** | AMLODIPINE BESYLATE / 21  |
+| 3    | INSULIN NOS / **5.000** | INSULIN NOS / 20 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Toxicity to various agents / **2.600** | Respiratory failure / 19  |
+| 2    | Acute kidney injury / **2.200** | Toxicity to various agents / 18  |
+| 3    | Respiratory failure / **2.000** | Acute kidney injury / 18  |
+
+### FAERS Report IDs:
+14377932 | 14408615 | 14418388 | 14422231 | 14422358 | 14430979 | 14433002 | 14438195 | 14444575 | 14447295
+14449203 | 14457067 | 14457693 | 14458626 | 14461297 | 14485439 | 14515280 | 14526073 | 14526074 | 15009828
+15542784
+
+================================================================================
+CLUSTER 34 (N=127 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | DOCETAXEL / **12.600** | DOCETAXEL / 127 ✅ |
+| 2    | CYCLOPHOSPHAMIDE / **8.400** | CYCLOPHOSPHAMIDE / 84 ✅ |
+| 3    | WARFARIN / **6.000** | WARFARIN / 61 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Alopecia / **41.300** | Alopecia / 126 ✅ |
+| 2    | Psychological trauma / **29.600** | Psychological trauma / 72 ✅ |
+| 3    | Hair colour changes / **9.600** | Hair colour changes / 49 ✅ |
+
+### FAERS Report IDs:
+13072709 | 13550966 | 13587111 | 13628939 | 13766908 | 13937194 | 14062064 | 14068848 | 14091732 | 14091758
+14151870 | 14161478 | 14161486 | 14195080 | 14198980 | 14201262 | 14209634 | 14221134 | 14243220 | 14247099
+14256461 | 14268900 | 14313027 | 14328875 | 14346860 | 14351045 | 14370482 | 14385228 | 14385257 | 14385267
+14385374 | 14385580 | 14386898 | 14386910 | 14387229 | 14387562 | 14387633 | 14387839 | 14388044 | 14388166
+14388204 | 14388771 | 14389044 | 14389053 | 14389063 | 14389201 | 14389356 | 14389358 | 14389611 | 14404498
+14434352 | 14439642 | 14474287 | 14572411 | 14582080 | 14597800 | 14774295 | 14852275 | 14868702 | 14869396
+14879408 | 14923915 | 14923959 | 14927258 | 14952189 | 14968590 | 14973075 | 14982721 | 14985059 | 14988081
+15015680 | 15036076 | 15036086 | 15106602 | 15109400 | 15110637 | 15121138 | 15121159 | 15150919 | 15151049
+15182857 | 15189631 | 15213820 | 15219646 | 15263911 | 15263965 | 15274916 | 15276711 | 15280917 | 15301445
+15306473 | 15344454 | 15347314 | 15349347 | 15349348 | 15352379 | 15420351 | 15458943 | 15473942 | 15504846
+15504890 | 15598481 | 15612034 | 15662795 | 15673175 | 15675116 | 15676595 | 15678377 | 15678382 | 15685816
+15685887 | 15705029 | 15730297 | 15730306 | 15730412 | 15730414 | 15730501 | 15730521 | 15730864 | 15739944
+15741534 | 15765387 | 15765724 | 15765794 | 15771802 | 15772673 | 15776641
+
+================================================================================
+CLUSTER 35 (N=44 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **7.000** | DOCETAXEL / 34  |
+| 2    | DOCETAXEL / **3.600** | WARFARIN / 24  |
+| 3    | WARFARIN / **2.300** | WARFARIN SODIUM / 23  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Alopecia / **44.000** | Alopecia / 44 ✅ |
+
+### FAERS Report IDs:
+14002193 | 14056636 | 14277263 | 14386286 | 14386509 | 14386704 | 14386997 | 14389010 | 14389064 | 14389191
+14546345 | 14761611 | 14770443 | 14781982 | 14896219 | 14917683 | 14968569 | 14989021 | 15000289 | 15213809
+15213968 | 15226793 | 15229754 | 15229761 | 15229770 | 15230055 | 15230069 | 15230102 | 15230149 | 15230153
+15230174 | 15230959 | 15234886 | 15326839 | 15456162 | 15483406 | 15598471 | 15633487 | 15633836 | 15704954
+15730660 | 15741541 | 15767488 | 15833560
+
+================================================================================
+CLUSTER 36 (N=22 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **4.600** | WARFARIN SODIUM / 14 ✅ |
+| 2    | WARFARIN / **0.800** | FUROSEMIDE / 9  |
+| 3    | TREPROSTINIL / **0.800** | WARFARIN / 9  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Cardiac failure congestive / **21.500** | Cardiac failure congestive / 22 ✅ |
+| 2    | Cardiac failure chronic / **0.500** | Cardiac failure chronic / 1 ✅ |
+
+### FAERS Report IDs:
+12607642 | 13694794 | 13759118 | 14071402 | 14085154 | 14129272 | 14218079 | 14276107 | 14361689 | 14626340
+14762370 | 14917223 | 15022353 | 15048315 | 15103470 | 15307236 | 15435754 | 15466411 | 15491168 | 15552545
+15723004 | 15797439
+
+================================================================================
+CLUSTER 37 (N=11 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | CLOPIDOGREL BISULFATE / **3.300** | CLOPIDOGREL BISULFATE / 11 ✅ |
+| 2    | DICLOFENAC / **3.000** | DICLOFENAC / 10 ✅ |
+| 3    | WARFARIN SODIUM / **2.900** | WARFARIN SODIUM / 10 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Upper gastrointestinal haemorrhage / **5.900** | Upper gastrointestinal haemorrhage / 11 ✅ |
+| 2    | Drug interaction / **5.100** | Drug interaction / 10 ✅ |
+
+### FAERS Report IDs:
+14411581 | 14444508 | 14471876 | 14583991 | 14588489 | 14607565 | 14662074 | 14681974 | 14860408 | 15341805
+15587498
+
+================================================================================
+CLUSTER 38 (N=12 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | ALPRAZOLAM / **3.300** | WARFARIN SODIUM / 12  |
+| 2    | DIGOXIN / **3.300** | DIGOXIN / 12 ✅ |
+| 3    | WARFARIN SODIUM / **3.300** | ALPRAZOLAM / 12  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Vomiting / **1.700** | Syncope / 12  |
+| 2    | Diarrhoea / **1.700** | Accidental overdose / 12  |
+| 3    | Toxicity to various agents / **1.700** | Diarrhoea / 12  |
+
+### FAERS Report IDs:
+14045424 | 14204896 | 14210569 | 14211266 | 14222444 | 14261390 | 14266115 | 14304420 | 14323643 | 14339714
+14606913 | 14801462
+
+================================================================================
+CLUSTER 39 (N=16 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | TREPROSTINIL / **4.800** | TREPROSTINIL / 16 ✅ |
+| 2    | WARFARIN / **3.400** | WARFARIN / 11 ✅ |
+| 3    | WARFARIN SODIUM / **1.400** | TADALAFIL / 5  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Dermatitis contact / **15.500** | Dermatitis contact / 16 ✅ |
+| 2    | Device related infection / **0.500** | Device related infection / 1 ✅ |
+
+### FAERS Report IDs:
+14435451 | 14435604 | 14435926 | 14436215 | 14436727 | 14891387 | 14967495 | 15072685 | 15072708 | 15094619
+15157205 | 15370404 | 15383964 | 15388933 | 15395078 | 15416319
+
+================================================================================
+CLUSTER 40 (N=14 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **6.400** | WARFARIN SODIUM / 11 ✅ |
+| 2    | BOSENTAN / **1.600** | BOSENTAN / 5 ✅ |
+| 3    | TREPROSTINIL / **1.000** | TREPROSTINIL / 4 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Weight decreased / **13.500** | Weight decreased / 14 ✅ |
+| 2    | Dyspnoea / **0.500** | Dyspnoea / 1 ✅ |
+
+### FAERS Report IDs:
+14069594 | 14207591 | 14216624 | 14226277 | 14584811 | 14779405 | 14833613 | 14870033 | 14982256 | 15134406
+15241989 | 15638022 | 15678022 | 15834479
+
+================================================================================
+CLUSTER 41 (N=12 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **1.800** | WARFARIN SODIUM / 12 ✅ |
+| 2    | AMLODIPINE BESYLATE / **1.500** | AMLODIPINE BESYLATE / 10 ✅ |
+| 3    | ATORVASTATIN / **1.500** | ATORVASTATIN / 10 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Fall / **4.500** | Syncope / 12  |
+| 2    | Syncope / **4.500** | Fall / 12  |
+| 3    | Bradycardia / **1.000** | Bradycardia / 5 ✅ |
+
+### FAERS Report IDs:
+14755363 | 14914060 | 14942257 | 14971778 | 15097905 | 15108186 | 15160740 | 15354407 | 15364444 | 15373875
+15375075 | 15491991
+
+================================================================================
+CLUSTER 42 (N=14 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | HYDROXYCHLOROQUINE / **2.000** | HYDROXYCHLOROQUINE / 14 ✅ |
+| 2    | LORAZEPAM / **1.900** | LORAZEPAM / 13 ✅ |
+| 3    | MONTELUKAST SODIUM / **1.700** | INFLUENZA VIRUS VACCINE / 12  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Haemoptysis / **2.000** | Contusion / 14  |
+| 2    | Pyrexia / **2.000** | Haemoptysis / 14  |
+| 3    | Contusion / **2.000** | Pyrexia / 14  |
+
+### FAERS Report IDs:
+14750177 | 14832023 | 14901572 | 14904316 | 14967663 | 14975285 | 14979357 | 14998224 | 14999041 | 14999486
+15049126 | 15072920 | 15073195 | 15131052
+
+================================================================================
+CLUSTER 43 (N=18 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **1.500** | FUROSEMIDE / 13  |
+| 2    | FUROSEMIDE / **0.900** | WARFARIN SODIUM / 11  |
+| 3    | WARFARIN SODIUM / **0.800** | INSULIN GLARGINE / 10  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Thrombocytopenia / **18.000** | Thrombocytopenia / 18 ✅ |
+
+### FAERS Report IDs:
+14051824 | 14207856 | 14256337 | 14383239 | 14665032 | 14702498 | 14706792 | 14733961 | 14740359 | 14744473
+14744526 | 14802462 | 15101194 | 15137856 | 15167157 | 15419771 | 15426599 | 15458506
+
+================================================================================
+CLUSTER 44 (N=17 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | ADALIMUMAB / **8.600** | ADALIMUMAB / 17 ✅ |
+| 2    | WARFARIN SODIUM / **4.900** | WARFARIN SODIUM / 10 ✅ |
+| 3    | WARFARIN / **3.500** | WARFARIN / 7 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Fall / **0.900** | Fall / 7 ✅ |
+| 2    | Thrombosis / **0.900** | Thrombosis / 5 ✅ |
+| 3    | Drug level increased / **0.600** | Weight decreased / 4  |
+
+### FAERS Report IDs:
+13536498 | 13667447 | 14077793 | 14168140 | 14404956 | 14545798 | 14658134 | 14926339 | 15003145 | 15218064
+15279706 | 15374513 | 15422308 | 15481444 | 15544574 | 15558852 | 15676722
+
+================================================================================
+CLUSTER 45 (N=18 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | ASPIRIN / **3.700** | CLOPIDOGREL BISULFATE / 18  |
+| 2    | CLOPIDOGREL BISULFATE / **3.700** | ASPIRIN / 18  |
+| 3    | WARFARIN / **2.900** | TICAGRELOR / 14  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Embolic stroke / **3.500** | Haemorrhage intracranial / 18  |
+| 2    | Haemorrhage intracranial / **3.500** | Embolic stroke / 18  |
+| 3    | Haematuria / **2.300** | Haematuria / 15 ✅ |
+
+### FAERS Report IDs:
+12647927 | 14026357 | 14183383 | 14194005 | 14195620 | 14201791 | 14256149 | 14261310 | 14263655 | 14266517
+14268925 | 14284811 | 14290771 | 14294023 | 14294924 | 14325907 | 14371887 | 14402247
+
+================================================================================
+CLUSTER 46 (N=10 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | DIGOXIN / **0.700** | DIGOXIN / 10 ✅ |
+| 2    | BISOPROLOL / **0.700** | BISOPROLOL / 10 ✅ |
+| 3    | WARFARIN / **0.600** | WARFARIN / 9 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Toxicity to various agents / **3.600** | Toxicity to various agents / 10 ✅ |
+| 2    | Drug interaction / **3.400** | Drug interaction / 9 ✅ |
+| 3    | Acute kidney injury / **2.600** | Acute kidney injury / 8 ✅ |
+
+### FAERS Report IDs:
+14341739 | 14364422 | 14365250 | 14366521 | 14370606 | 14372401 | 14491361 | 14498779 | 14744110 | 14923977
+
+================================================================================
+CLUSTER 47 (N=12 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **2.200** | WARFARIN / 10 ✅ |
+| 2    | TREPROSTINIL / **2.100** | TREPROSTINIL / 8 ✅ |
+| 3    | AMBRISENTAN / **1.300** | AMBRISENTAN / 5 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Syncope / **11.500** | Syncope / 12 ✅ |
+| 2    | Hypotension / **0.500** | Hypotension / 1 ✅ |
+
+### FAERS Report IDs:
+12531021 | 13986105 | 14145632 | 14151709 | 14318053 | 14345985 | 14425027 | 14497193 | 14669209 | 14680675
+14891411 | 15061542
+
+================================================================================
+CLUSTER 48 (N=10 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **1.300** | LENALIDOMIDE / 7  |
+| 2    | LENALIDOMIDE / **0.600** | WARFARIN / 6  |
+| 3    | WARFARIN / **0.500** | WARFARIN SODIUM / 4  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Adverse drug reaction / **10.000** | Adverse drug reaction / 10 ✅ |
+
+### FAERS Report IDs:
+14068968 | 14262964 | 14264089 | 14288070 | 14334947 | 15186984 | 15263539 | 15481452 | 15709608 | 15835308
+
+================================================================================
+CLUSTER 49 (N=23 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **7.900** | WARFARIN SODIUM / 16 ✅ |
+| 2    | WARFARIN / **2.200** | FUROSEMIDE / 5  |
+| 3    | CELECOXIB / **1.000** | WARFARIN / 5  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Drug hypersensitivity / **22.500** | Drug hypersensitivity / 23 ✅ |
+| 2    | Dyspnoea / **0.500** | Dyspnoea / 1 ✅ |
+
+### FAERS Report IDs:
+12808125 | 13241956 | 13963063 | 14073085 | 14101406 | 14111311 | 14267241 | 14267665 | 14267694 | 14550692
+14781974 | 14895255 | 15007212 | 15020903 | 15235726 | 15299698 | 15369176 | 15378363 | 15498651 | 15506479
+15593991 | 15684012 | 15823034
+
+================================================================================
+CLUSTER 50 (N=11 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **4.500** | WARFARIN SODIUM / 9 ✅ |
+| 2    | CLOPIDOGREL BISULFATE / **4.500** | CLOPIDOGREL BISULFATE / 9 ✅ |
+| 3    | WARFARIN / **1.000** | WARFARIN / 2 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Anaemia / **4.300** | Anaemia / 11 ✅ |
+| 2    | Spontaneous haematoma / **1.700** | Spontaneous haematoma / 5 ✅ |
+| 3    | International normalised ratio increased / **1.700** | Troponin I increased / 5  |
+
+### FAERS Report IDs:
+13522895 | 13526164 | 14415109 | 14562387 | 14566469 | 15287208 | 15531140 | 15569092 | 15569213 | 15573410
+15726798
+
+================================================================================
+CLUSTER 51 (N=17 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | TREPROSTINIL / **3.700** | TREPROSTINIL / 13 ✅ |
+| 2    | SILDENAFIL CITRATE / **2.600** | WARFARIN / 9  |
+| 3    | AMBRISENTAN / **2.300** | AMBRISENTAN / 9 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Device related infection / **16.500** | Device related infection / 17 ✅ |
+| 2    | Infection / **0.500** | Infection / 1 ✅ |
+
+### FAERS Report IDs:
+14435748 | 14436747 | 14438908 | 14439493 | 14561001 | 14565774 | 14590097 | 14660051 | 15009309 | 15053349
+15139692 | 15160623 | 15254957 | 15262595 | 15269874 | 15378584 | 15636846
+
+================================================================================
+CLUSTER 52 (N=21 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **1.700** | FUROSEMIDE / 16  |
+| 2    | FUROSEMIDE / **1.400** | WARFARIN SODIUM / 12  |
+| 3    | WARFARIN SODIUM / **1.100** | WARFARIN / 9  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Acute kidney injury / **21.000** | Acute kidney injury / 21 ✅ |
+
+### FAERS Report IDs:
+10836313 | 11328821 | 13938847 | 14003642 | 14419461 | 14494782 | 14592346 | 14614243 | 14700996 | 14752687
+14803333 | 14813950 | 14844983 | 14976956 | 15487168 | 15500940 | 15533085 | 15543678 | 15685319 | 15862609
+15865346
+
+================================================================================
+CLUSTER 53 (N=10 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | HEPARIN SODIUM / **5.000** | HEPARIN SODIUM / 10 ✅ |
+| 2    | WARFARIN / **3.000** | WARFARIN / 6 ✅ |
+| 3    | WARFARIN SODIUM / **2.000** | WARFARIN SODIUM / 4 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Exposure during pregnancy / **0.900** | Premature delivery / 4  |
+| 2    | Premature delivery / **0.800** | Exposure during pregnancy / 4  |
+| 3    | Haemoglobin decreased / **0.800** | Haematoma / 3  |
+
+### FAERS Report IDs:
+13938861 | 14424662 | 14474705 | 15299428 | 15299445 | 15698544 | 15703094 | 15703351 | 15707973 | 15729258
+
+================================================================================
+CLUSTER 54 (N=12 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | CLOPIDOGREL BISULFATE / **1.600** | CLOPIDOGREL BISULFATE / 12 ✅ |
+| 2    | INFLUENZA VIRUS VACCINE / **1.400** | ASPIRIN / 11  |
+| 3    | ITRACONAZOLE / **1.200** | INFLUENZA VIRUS VACCINE / 11  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Ecchymosis / **1.800** | Peripheral swelling / 12  |
+| 2    | Haematoma / **1.800** | Ecchymosis / 12  |
+| 3    | Anaemia / **1.800** | Pain in extremity / 12  |
+
+### FAERS Report IDs:
+14735229 | 14752813 | 14756745 | 14942804 | 14980525 | 15143001 | 15178663 | 15180877 | 15254512 | 15531897
+15701093 | 15701756
+
+================================================================================
+CLUSTER 55 (N=11 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | INFLUENZA VIRUS VACCINE / **2.800** | CLOPIDOGREL BISULFATE / 11  |
+| 2    | ASPIRIN / **2.700** | INFLUENZA VIRUS VACCINE / 11  |
+| 3    | CLOPIDOGREL BISULFATE / **2.700** | ASPIRIN / 11  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Drug interaction / **1.400** | Mouth haemorrhage / 11  |
+| 2    | Ear haemorrhage / **1.400** | Ear haemorrhage / 11 ✅ |
+| 3    | Epistaxis / **1.400** | Drug interaction / 11  |
+
+### FAERS Report IDs:
+14741078 | 14753135 | 14823704 | 14896300 | 14974228 | 14992455 | 14999048 | 15004075 | 15144476 | 15173387
+15207431
+
+================================================================================
+CLUSTER 56 (N=19 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **2.800** | WARFARIN SODIUM / 11 ✅ |
+| 2    | WARFARIN / **0.800** | WARFARIN / 9 ✅ |
+| 3    | GABAPENTIN / **0.600** | GABAPENTIN / 7 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Fatigue / **19.000** | Fatigue / 19 ✅ |
+
+### FAERS Report IDs:
+13679155 | 14048456 | 14324868 | 14470546 | 14554964 | 14604772 | 14616446 | 14710470 | 14768374 | 15052149
+15160570 | 15181655 | 15186983 | 15262125 | 15381238 | 15489062 | 15530970 | 15561855 | 15646595
+
+================================================================================
+CLUSTER 57 (N=14 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **5.300** | WARFARIN SODIUM / 8 ✅ |
+| 2    | WARFARIN / **1.700** | FUROSEMIDE / 4  |
+| 3    | ASPIRIN / **0.600** | WARFARIN / 4  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Anaemia / **14.000** | Anaemia / 14 ✅ |
+
+### FAERS Report IDs:
+10867388 | 13999450 | 14090524 | 14245823 | 14331354 | 14334247 | 14360117 | 14412910 | 14442400 | 14507042
+14596169 | 15477495 | 15743125 | 15843571
+
+================================================================================
+CLUSTER 58 (N=13 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | SIMVASTATIN / **1.300** | WARFARIN / 13  |
+| 2    | WARFARIN / **1.300** | SIMVASTATIN / 13  |
+| 3    | FUROSEMIDE / **1.200** | HYDROCHLOROTHIAZIDE / 12  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Completed suicide / **4.700** | Completed suicide / 12 ✅ |
+| 2    | Cardio-respiratory arrest / **3.200** | Cardio-respiratory arrest / 8 ✅ |
+| 3    | Toxicity to various agents / **2.700** | Toxicity to various agents / 7 ✅ |
+
+### FAERS Report IDs:
+14193422 | 14244536 | 14297539 | 14314764 | 14332999 | 14379139 | 14523476 | 14530496 | 14530933 | 14532848
+14949997 | 15193476 | 15773921
+
+================================================================================
+CLUSTER 59 (N=11 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | CLOZAPINE / **1.200** | CLOZAPINE / 11 ✅ |
+| 2    | SCOPOLAMINE / **1.200** | SERTRALINE HYDROCHLORIDE / 11  |
+| 3    | ALBUTEROL / **1.200** | SCOPOLAMINE / 11  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Pneumonia / **11.000** | Pneumonia / 11 ✅ |
+
+### FAERS Report IDs:
+14790985 | 14892700 | 14907182 | 14915710 | 14916428 | 14933615 | 14933754 | 14979074 | 15034452 | 15493483
+15738405
+
+================================================================================
+CLUSTER 60 (N=30 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **25.000** | WARFARIN SODIUM / 25 ✅ |
+| 2    | WARFARIN / **4.000** | WARFARIN / 4 ✅ |
+| 3    | CALCIUM CHLORIDE_DEXTROSE_MAGNESIUM CHLORIDE_SODIUM CHLORIDE_SODIUM LACTATE / **1.000** | CALCIUM CHLORIDE_DEXTROSE_MAGNESIUM CHLORIDE_SODIUM CHLORIDE_SODIUM LACTATE / 1 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Calciphylaxis / **30.000** | Calciphylaxis / 30 ✅ |
+
+### FAERS Report IDs:
+11727383 | 11727535 | 11737679 | 11737701 | 14302092 | 14476895 | 14479400 | 14506021 | 14727334 | 14839715
+14839731 | 15099839 | 15414682 | 15457887 | 15457905 | 15457973 | 15458035 | 15458036 | 15458074 | 15458108
+15458109 | 15458110 | 15458134 | 15458136 | 15458168 | 15458169 | 15458171 | 15458172 | 15458195 | 15577134
+
+================================================================================
+CLUSTER 61 (N=14 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **6.100** | WARFARIN / 8 ✅ |
+| 2    | WARFARIN SODIUM / **4.300** | WARFARIN SODIUM / 7 ✅ |
+| 3    | ALLOPURINOL / **0.300** | ALLOPURINOL / 3 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | International normalised ratio decreased / **13.500** | International normalised ratio decreased / 14 ✅ |
+| 2    | Pulmonary embolism / **0.500** | Pulmonary embolism / 1 ✅ |
+
+### FAERS Report IDs:
+14037879 | 14068043 | 14153054 | 14153077 | 14153082 | 14342133 | 14851255 | 15004605 | 15157037 | 15157126
+15157966 | 15157968 | 15466096 | 15468978
+
+================================================================================
+CLUSTER 62 (N=33 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **15.700** | WARFARIN SODIUM / 27 ✅ |
+| 2    | WARFARIN / **1.500** | WARFARIN / 6 ✅ |
+| 3    | APIXABAN / **0.700** | ACETAMINOPHEN / 5  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Hypersensitivity / **19.000** | Hypersensitivity / 20 ✅ |
+| 2    | Rash / **13.500** | Rash / 14 ✅ |
+| 3    | International normalised ratio increased / **0.500** | International normalised ratio increased / 1 ✅ |
+
+### FAERS Report IDs:
+12851979 | 13452553 | 13805876 | 13805936 | 13984407 | 14091635 | 14100968 | 14105752 | 14151198 | 14153047
+14173113 | 14184100 | 14503945 | 14615821 | 14621979 | 14633918 | 14684442 | 14814138 | 14840095 | 14856962
+14911264 | 14921336 | 14998568 | 15004937 | 15072770 | 15124733 | 15151910 | 15157407 | 15241832 | 15345914
+15384823 | 15481157 | 15787009
+
+================================================================================
+CLUSTER 63 (N=16 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **16.000** | WARFARIN / 16 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Coagulation time prolonged / **8.000** | Coagulation time prolonged / 16 ✅ |
+| 2    | Death / **6.000** | Death / 12 ✅ |
+| 3    | Ischaemic stroke / **2.000** | Ischaemic stroke / 4 ✅ |
+
+### FAERS Report IDs:
+14331677 | 14331678 | 14331679 | 14331680 | 14331690 | 14331692 | 14331693 | 14331715 | 14331729 | 14331746
+14331747 | 14332158 | 14332159 | 14332191 | 14332192 | 14332201
+
+================================================================================
+CLUSTER 64 (N=14 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | ASPIRIN / **1.500** | ATORVASTATIN / 14  |
+| 2    | CLOPIDOGREL BISULFATE / **1.500** | CLOPIDOGREL BISULFATE / 14 ✅ |
+| 3    | ATORVASTATIN / **1.500** | ASPIRIN / 14  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Drug interaction / **1.600** | Drug interaction / 14 ✅ |
+| 2    | Asphyxia / **1.500** | Asphyxia / 13 ✅ |
+| 3    | Overdose / **1.200** | Intra-abdominal haemorrhage / 12  |
+
+### FAERS Report IDs:
+14144483 | 14657600 | 14686288 | 14686525 | 14704511 | 14753209 | 14794076 | 14872848 | 14964860 | 15007942
+15042789 | 15057576 | 15173011 | 15180392
+
+================================================================================
+CLUSTER 65 (N=20 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **3.200** | WARFARIN / 13 ✅ |
+| 2    | TREPROSTINIL / **2.700** | TREPROSTINIL / 9 ✅ |
+| 3    | AMBRISENTAN / **1.700** | WARFARIN SODIUM / 7  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Influenza / **19.500** | Influenza / 20 ✅ |
+| 2    | Pneumonia / **0.500** | Pneumonia / 1 ✅ |
+
+### FAERS Report IDs:
+13303694 | 14081964 | 14392045 | 14426318 | 14483839 | 14537472 | 14545927 | 14560819 | 14574150 | 14627936
+14652913 | 14700546 | 14712555 | 14746075 | 14890786 | 14890879 | 14941520 | 15525067 | 15851687 | 15862439
+
+================================================================================
+CLUSTER 66 (N=15 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | LISINOPRIL / **1.500** | PREGABALIN / 15  |
+| 2    | GLIPIZIDE / **1.500** | GLIPIZIDE / 15 ✅ |
+| 3    | PREGABALIN / **1.500** | LISINOPRIL / 15  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Blood pressure increased / **1.800** | Dehydration / 15  |
+| 2    | Photosensitivity reaction / **1.700** | Haemorrhage intracranial / 15  |
+| 3    | Dehydration / **1.700** | Spinal pain / 15  |
+
+### FAERS Report IDs:
+14768493 | 14837282 | 14841462 | 14901443 | 14922308 | 14932023 | 14966460 | 14966983 | 14974229 | 14993494
+14999028 | 15157927 | 15204319 | 15214151 | 15245518
+
+================================================================================
+CLUSTER 67 (N=11 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **5.200** | WARFARIN SODIUM / 8 ✅ |
+| 2    | FUROSEMIDE / **0.200** | ASPIRIN / 3  |
+| 3    | WARFARIN / **0.200** | WARFARIN / 3 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Malaise / **10.500** | Malaise / 11 ✅ |
+| 2    | Diarrhoea / **0.500** | Diarrhoea / 1 ✅ |
+
+### FAERS Report IDs:
+14264364 | 14585216 | 14659713 | 14731966 | 14754066 | 14836450 | 15222980 | 15229806 | 15232698 | 15473177
+15810741
+
+================================================================================
+CLUSTER 68 (N=17 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **8.100** | WARFARIN SODIUM / 10 ✅ |
+| 2    | WARFARIN / **1.400** | WARFARIN / 7 ✅ |
+| 3    | FUROSEMIDE / **0.400** | FUROSEMIDE / 6 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Diarrhoea / **17.000** | Diarrhoea / 17 ✅ |
+
+### FAERS Report IDs:
+12421493 | 14061178 | 14123704 | 14153051 | 14234507 | 14316111 | 14443814 | 14538455 | 14615624 | 14682934
+14781975 | 15185868 | 15196878 | 15313393 | 15417062 | 15506101 | 15562973
+
+================================================================================
+CLUSTER 69 (N=17 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **8.400** | WARFARIN SODIUM / 13 ✅ |
+| 2    | LENALIDOMIDE / **0.400** | LENALIDOMIDE / 5 ✅ |
+| 3    | LISINOPRIL / **0.400** | LISINOPRIL / 4 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Cardiac disorder / **16.500** | Cardiac disorder / 17 ✅ |
+| 2    | Cardiac arrest / **0.500** | Cardiac arrest / 1 ✅ |
+
+### FAERS Report IDs:
+13984537 | 14167504 | 14247879 | 14254465 | 14497140 | 14596002 | 15109109 | 15139179 | 15154753 | 15156732
+15252050 | 15372627 | 15401983 | 15484256 | 15540811 | 15553171 | 15775065
+
+================================================================================
+CLUSTER 70 (N=12 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **12.000** | WARFARIN SODIUM / 12 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Atrial fibrillation / **12.000** | Atrial fibrillation / 12 ✅ |
+
+### FAERS Report IDs:
+13181316 | 14090172 | 14248425 | 14472920 | 14530630 | 14610928 | 14687663 | 14803265 | 15058278 | 15374959
+15486519 | 15609398
+
+================================================================================
+CLUSTER 71 (N=13 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | FUROSEMIDE / **0.600** | WARFARIN SODIUM / 9  |
+| 2    | WARFARIN SODIUM / **0.600** | FUROSEMIDE / 9  |
+| 3    | CHOLECALCIFEROL / **0.500** | CHOLECALCIFEROL / 8 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Atrial fibrillation / **13.000** | Atrial fibrillation / 13 ✅ |
+
+### FAERS Report IDs:
+12937161 | 13893938 | 14007927 | 14154752 | 14569258 | 14804564 | 15108811 | 15158516 | 15300237 | 15315118
+15323193 | 15419011 | 15761714
+
+================================================================================
+CLUSTER 72 (N=10 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | FUROSEMIDE / **0.800** | ASPIRIN / 9  |
+| 2    | ASPIRIN / **0.800** | FUROSEMIDE / 9  |
+| 3    | WARFARIN SODIUM / **0.500** | WARFARIN SODIUM / 6 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Myocardial infarction / **10.000** | Myocardial infarction / 10 ✅ |
+
+### FAERS Report IDs:
+14242313 | 14657097 | 14752971 | 14979531 | 15029173 | 15330547 | 15392756 | 15464408 | 15475166 | 15846378
+
+================================================================================
+CLUSTER 73 (N=12 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **10.000** | WARFARIN SODIUM / 12 ✅ |
+| 2    | RIVAROXABAN / **1.000** | RIVAROXABAN / 3 ✅ |
+| 3    | ASPIRIN / **0.700** | ASPIRIN / 2 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Traumatic haematoma / **12.000** | Traumatic haematoma / 12 ✅ |
+
+### FAERS Report IDs:
+12700055 | 12732631 | 14653198 | 14653200 | 14653201 | 14653209 | 14653316 | 14653334 | 14653335 | 14653336
+14656002 | 14760698
+
+================================================================================
+CLUSTER 74 (N=13 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | FUROSEMIDE / **1.100** | FUROSEMIDE / 11 ✅ |
+| 2    | WARFARIN SODIUM / **1.100** | WARFARIN SODIUM / 11 ✅ |
+| 3    | RAMIPRIL / **0.900** | RAMIPRIL / 9 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Drug interaction / **6.600** | International normalised ratio increased / 13  |
+| 2    | International normalised ratio increased / **6.400** | Drug interaction / 13  |
+
+### FAERS Report IDs:
+14638995 | 14695484 | 15283329 | 15370722 | 15585102 | 15600494 | 15731566 | 15749001 | 15749049 | 15750488
+15753813 | 15759669 | 15766507
+
+================================================================================
+CLUSTER 75 (N=11 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | FUROSEMIDE / **1.600** | APIXABAN / 11  |
+| 2    | APIXABAN / **1.600** | FUROSEMIDE / 11  |
+| 3    | DIGOXIN / **1.600** | DIGOXIN / 11 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Abnormal loss of weight / **2.000** | Acute kidney injury / 11  |
+| 2    | Colon cancer / **2.000** | Melaena / 11  |
+| 3    | Acute kidney injury / **2.000** | Gastrointestinal haemorrhage / 11  |
+
+### FAERS Report IDs:
+13224758 | 13235453 | 13246355 | 13256382 | 13267016 | 13267109 | 13267733 | 14185442 | 14606910 | 14659677
+15306366
+
+================================================================================
+CLUSTER 76 (N=14 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **6.500** | WARFARIN SODIUM / 13 ✅ |
+| 2    | ENOXAPARIN / **6.000** | ENOXAPARIN / 12 ✅ |
+| 3    | ENOXAPARIN SODIUM / **1.000** | ENOXAPARIN SODIUM / 2 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Haemorrhage / **13.500** | Haemorrhage / 14 ✅ |
+| 2    | Haemorrhagic stroke / **0.500** | Haemorrhagic stroke / 1 ✅ |
+
+### FAERS Report IDs:
+14346596 | 14346697 | 14346698 | 14346699 | 14346806 | 14346807 | 14346808 | 14347011 | 14347012 | 14347014
+14348857 | 14998003 | 15418469 | 15523249
+
+================================================================================
+CLUSTER 77 (N=11 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **11.000** | WARFARIN / 11 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Condition aggravated / **5.100** | Condition aggravated / 11 ✅ |
+| 2    | Traumatic haematoma / **4.500** | Traumatic haematoma / 10 ✅ |
+| 3    | Haematoma / **1.500** | Haematoma / 4 ✅ |
+
+### FAERS Report IDs:
+14971094 | 14975391 | 14975392 | 14975399 | 14975402 | 14975403 | 14975406 | 14976435 | 14976436 | 14976437
+14976482
+
+================================================================================
+CLUSTER 78 (N=29 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | TREPROSTINIL / **7.000** | TREPROSTINIL / 22 ✅ |
+| 2    | AMBRISENTAN / **5.800** | AMBRISENTAN / 18 ✅ |
+| 3    | WARFARIN / **5.200** | WARFARIN / 15 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Dyspnoea / **29.000** | Dyspnoea / 29 ✅ |
+
+### FAERS Report IDs:
+13269689 | 14118652 | 14148842 | 14436312 | 14438896 | 14439049 | 14439624 | 14554007 | 14604197 | 14618961
+14789969 | 14821020 | 14941134 | 15050170 | 15219676 | 15227062 | 15251145 | 15315175 | 15373491 | 15378059
+15463890 | 15506378 | 15642032 | 15689389 | 15737981 | 15798201 | 15805981 | 15850638 | 15862553
+
+================================================================================
+CLUSTER 79 (N=12 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **11.000** | WARFARIN SODIUM / 12 ✅ |
+| 2    | RIOCIGUAT / **0.500** | RIOCIGUAT / 1 ✅ |
+| 3    | WARFARIN / **0.500** | WARFARIN / 1 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Hospitalisation / **12.000** | Hospitalisation / 12 ✅ |
+
+### FAERS Report IDs:
+13697242 | 14061643 | 14070297 | 14825206 | 14878406 | 15108172 | 15168755 | 15306000 | 15427883 | 15491638
+15501544 | 15584296
+
+================================================================================
+CLUSTER 80 (N=13 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | FUROSEMIDE / **0.800** | FUROSEMIDE / 10 ✅ |
+| 2    | WARFARIN / **0.700** | WARFARIN / 9 ✅ |
+| 3    | OMEPRAZOLE / **0.400** | OMEPRAZOLE / 5 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Hospitalisation / **13.000** | Hospitalisation / 13 ✅ |
+
+### FAERS Report IDs:
+13719889 | 14348427 | 14376444 | 14430512 | 14539193 | 14583480 | 14604444 | 14680467 | 14733384 | 15156419
+15505132 | 15712946 | 15750302
+
+================================================================================
+CLUSTER 81 (N=14 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | ASPIRIN / **7.000** | ASPIRIN / 14 ✅ |
+| 2    | WARFARIN / **5.000** | WARFARIN / 10 ✅ |
+| 3    | WARFARIN SODIUM / **2.000** | WARFARIN SODIUM / 4 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Anaemia / **2.000** | International normalised ratio increased / 9  |
+| 2    | International normalised ratio increased / **1.700** | Anaemia / 8  |
+| 3    | Haemorrhage / **0.800** | Gastric haemorrhage / 4  |
+
+### FAERS Report IDs:
+14119560 | 14128155 | 14198393 | 14208546 | 14339730 | 14365925 | 14415087 | 14927073 | 15225931 | 15247915
+15270922 | 15505242 | 15693100 | 15823495
+
+================================================================================
+CLUSTER 82 (N=43 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **37.000** | WARFARIN / 37 ✅ |
+| 2    | WARFARIN SODIUM / **6.000** | WARFARIN SODIUM / 6 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Death / **43.000** | Death / 43 ✅ |
+
+### FAERS Report IDs:
+14037326 | 14037329 | 14037339 | 14037340 | 14066098 | 14066277 | 14067619 | 14179547 | 14225284 | 14545577
+14545778 | 14546080 | 14550829 | 14576692 | 14579858 | 14579861 | 14579873 | 14579876 | 14579967 | 14579970
+14579971 | 14579973 | 14580074 | 14580076 | 14580318 | 14580423 | 14580424 | 14580910 | 14580911 | 14580926
+14580928 | 14581504 | 14602025 | 14606027 | 14611326 | 14611346 | 14611349 | 14612335 | 14633993 | 14657372
+14911420 | 15577298 | 15659625
+
+================================================================================
+CLUSTER 83 (N=40 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **27.600** | WARFARIN SODIUM / 29 ✅ |
+| 2    | WARFARIN / **7.100** | WARFARIN / 8 ✅ |
+| 3    | SACUBITRIL_VALSARTAN / **1.000** | ASPIRIN / 2  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | International normalised ratio increased / **40.000** | International normalised ratio increased / 40 ✅ |
+
+### FAERS Report IDs:
+13452542 | 13988222 | 14010097 | 14153053 | 14231704 | 14252286 | 14254792 | 14301332 | 14360116 | 14434723
+14494433 | 14506623 | 14506843 | 14590695 | 14621515 | 14626369 | 14662128 | 14667561 | 14686126 | 14739477
+14910433 | 14918383 | 14979248 | 15072636 | 15112812 | 15156888 | 15157408 | 15160371 | 15201285 | 15201286
+15205972 | 15323884 | 15343297 | 15460026 | 15476194 | 15608197 | 15679731 | 15698493 | 15788777 | 15846122
+
+================================================================================
+CLUSTER 84 (N=56 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **2.500** | WARFARIN / 36 ✅ |
+| 2    | FUROSEMIDE / **2.500** | FUROSEMIDE / 35 ✅ |
+| 3    | WARFARIN SODIUM / **1.300** | ASPIRIN / 21  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Death / **56.000** | Death / 56 ✅ |
+
+### FAERS Report IDs:
+11509151 | 13928890 | 14074772 | 14111472 | 14128100 | 14132074 | 14133764 | 14150539 | 14158676 | 14169870
+14171935 | 14279549 | 14308049 | 14313735 | 14314900 | 14320221 | 14331654 | 14332563 | 14338506 | 14348814
+14356086 | 14559209 | 14570933 | 14572191 | 14572865 | 14632231 | 14666432 | 14681928 | 14738547 | 14777187
+14791021 | 14828244 | 14853403 | 14890420 | 14933959 | 14957569 | 14973700 | 15124448 | 15159977 | 15266187
+15272552 | 15322659 | 15347374 | 15361589 | 15404567 | 15439508 | 15452112 | 15455582 | 15476942 | 15525813
+15715568 | 15787711 | 15826543 | 15839946 | 15857311 | 15862417
+
+================================================================================
+CLUSTER 85 (N=40 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **13.500** | WARFARIN / 33 ✅ |
+| 2    | RIOCIGUAT / **10.900** | RIOCIGUAT / 26 ✅ |
+| 3    | TREPROSTINIL / **6.300** | TREPROSTINIL / 19 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Death / **40.000** | Death / 40 ✅ |
+
+### FAERS Report IDs:
+14033700 | 14039830 | 14047901 | 14107689 | 14124125 | 14277413 | 14307121 | 14355890 | 14357021 | 14364193
+14370158 | 14583488 | 14625262 | 14666015 | 14707434 | 14794019 | 14820161 | 14821345 | 14882531 | 14908726
+14923260 | 15001849 | 15036957 | 15103994 | 15131563 | 15196400 | 15297868 | 15331637 | 15352214 | 15353086
+15478117 | 15487616 | 15538220 | 15562143 | 15612235 | 15677435 | 15728562 | 15730956 | 15794685 | 15807908
+
+================================================================================
+CLUSTER 86 (N=14 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | AMBRISENTAN / **7.000** | AMBRISENTAN / 14 ✅ |
+| 2    | WARFARIN / **6.000** | WARFARIN / 12 ✅ |
+| 3    | WARFARIN SODIUM / **1.000** | WARFARIN SODIUM / 2 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Death / **14.000** | Death / 14 ✅ |
+
+### FAERS Report IDs:
+12745591 | 14161123 | 14166223 | 14309263 | 14314652 | 14577740 | 14654128 | 14782194 | 14805853 | 14893734
+15029296 | 15082276 | 15231976 | 15768060
+
+================================================================================
+CLUSTER 87 (N=10 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **4.000** | ASPIRIN / 10  |
+| 2    | ASPIRIN / **4.000** | WARFARIN / 10  |
+| 3    | HEPARIN SODIUM / **1.500** | HEPARIN SODIUM / 5 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Haematoma / **9.500** | Haematoma / 10 ✅ |
+| 2    | Intracranial haematoma / **0.500** | Intracranial haematoma / 1 ✅ |
+
+### FAERS Report IDs:
+11860544 | 14177415 | 14181889 | 14181926 | 15004847 | 15004914 | 15004915 | 15295216 | 15361221 | 15570727
+
+================================================================================
+CLUSTER 88 (N=22 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **20.500** | WARFARIN SODIUM / 21 ✅ |
+| 2    | WARFARIN / **1.500** | WARFARIN / 2 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | International normalised ratio fluctuation / **22.000** | International normalised ratio fluctuation / 22 ✅ |
+
+### FAERS Report IDs:
+13933026 | 14052530 | 14153061 | 14172234 | 14354102 | 14379450 | 14602610 | 14639145 | 14678764 | 14737931
+14766971 | 14879762 | 14911241 | 15040826 | 15169183 | 15302179 | 15319457 | 15417780 | 15471636 | 15588855
+15674761 | 15826000
+
+================================================================================
+CLUSTER 89 (N=29 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **25.000** | WARFARIN SODIUM / 25 ✅ |
+| 2    | WARFARIN / **4.000** | WARFARIN / 4 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Cerebrovascular accident / **29.000** | Cerebrovascular accident / 29 ✅ |
+
+### FAERS Report IDs:
+13862882 | 14052489 | 14061414 | 14074263 | 14089107 | 14091099 | 14120360 | 14177460 | 14316248 | 14378614
+14411337 | 14477988 | 14503269 | 14621980 | 14711818 | 14735548 | 15027041 | 15180961 | 15319556 | 15323860
+15326826 | 15397359 | 15449727 | 15481626 | 15614673 | 15650041 | 15682974 | 15725322 | 15775733
+
+================================================================================
+CLUSTER 90 (N=18 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | FUROSEMIDE / **1.300** | FUROSEMIDE / 12 ✅ |
+| 2    | WARFARIN / **1.100** | WARFARIN / 10 ✅ |
+| 3    | AMLODIPINE BESYLATE / **0.800** | ASPIRIN / 8  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Cerebrovascular accident / **18.000** | Cerebrovascular accident / 18 ✅ |
+
+### FAERS Report IDs:
+11960502 | 12879870 | 14111027 | 14113571 | 14123684 | 14138912 | 14225277 | 14236196 | 14345811 | 14569198
+15015622 | 15052563 | 15085290 | 15301345 | 15432892 | 15546900 | 15644930 | 15804339
+
+================================================================================
+CLUSTER 91 (N=14 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **12.000** | WARFARIN SODIUM / 12 ✅ |
+| 2    | INSULIN DETEMIR / **1.000** | POTASSIUM CHLORIDE / 1  |
+| 3    | IBRUTINIB / **0.100** | CYANOCOBALAMIN / 1  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Contusion / **14.000** | Contusion / 14 ✅ |
+
+### FAERS Report IDs:
+14143028 | 14178881 | 14260906 | 14326733 | 14496053 | 14868507 | 14919518 | 15007595 | 15020302 | 15249009
+15282882 | 15602449 | 15726521 | 15747949
+
+================================================================================
+CLUSTER 92 (N=21 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **20.000** | WARFARIN / 20 ✅ |
+| 2    | WARFARIN SODIUM / **1.000** | WARFARIN SODIUM / 1 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Atrial thrombosis / **10.600** | Atrial thrombosis / 21 ✅ |
+| 2    | Drug ineffective / **10.400** | Drug ineffective / 21 ✅ |
+
+### FAERS Report IDs:
+14942153 | 15533579 | 15635464 | 15635476 | 15635488 | 15635491 | 15635513 | 15635515 | 15635528 | 15635537
+15635554 | 15635556 | 15635559 | 15635560 | 15635562 | 15635571 | 15635581 | 15635611 | 15635622 | 15635626
+15635636
+
+================================================================================
+CLUSTER 93 (N=12 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | FUROSEMIDE / **0.400** | WARFARIN / 6  |
+| 2    | WARFARIN / **0.400** | WARFARIN SODIUM / 6  |
+| 3    | ASPIRIN / **0.400** | FUROSEMIDE / 6  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Drug ineffective / **12.000** | Drug ineffective / 12 ✅ |
+
+### FAERS Report IDs:
+10919106 | 13940514 | 14755666 | 15016904 | 15020831 | 15057042 | 15186734 | 15321051 | 15379250 | 15380965
+15538417 | 15736502
+
+================================================================================
+CLUSTER 94 (N=15 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **15.000** | WARFARIN / 15 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Drug ineffective / **15.000** | Drug ineffective / 15 ✅ |
+
+### FAERS Report IDs:
+13452546 | 14629738 | 14675648 | 14777738 | 14781983 | 14897709 | 14959831 | 14964616 | 15014757 | 15157965
+15315606 | 15429759 | 15624526 | 15659593 | 15849739
+
+================================================================================
+CLUSTER 95 (N=22 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **22.000** | WARFARIN SODIUM / 22 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Drug ineffective / **22.000** | Drug ineffective / 22 ✅ |
+
+### FAERS Report IDs:
+14163330 | 14448314 | 14518129 | 14614048 | 14740743 | 14917787 | 14921281 | 14926877 | 14931403 | 14953711
+14966932 | 14987329 | 14999565 | 15095323 | 15100764 | 15256668 | 15356399 | 15389693 | 15525239 | 15732868
+15804884 | 15805158
+
+================================================================================
+CLUSTER 96 (N=106 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | ASPIRIN / **52.800** | ASPIRIN / 106 ✅ |
+| 2    | WARFARIN SODIUM / **50.900** | WARFARIN SODIUM / 102 ✅ |
+| 3    | WARFARIN / **2.000** | WARFARIN / 4 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Haemorrhage intracranial / **104.000** | Haemorrhage intracranial / 106 ✅ |
+| 2    | Intracranial haematoma / **2.000** | Intracranial haematoma / 4 ✅ |
+
+### FAERS Report IDs:
+11857538 | 11860543 | 11860547 | 11860548 | 14467428 | 15409019 | 15409071 | 15409072 | 15409145 | 15409146
+15409157 | 15409158 | 15409159 | 15409161 | 15409162 | 15409186 | 15409187 | 15409188 | 15409189 | 15409232
+15409233 | 15409234 | 15409235 | 15409236 | 15409796 | 15409797 | 15409805 | 15409806 | 15409807 | 15409814
+15409815 | 15409816 | 15409817 | 15409818 | 15409826 | 15409827 | 15409828 | 15409831 | 15409832 | 15409833
+15409837 | 15409839 | 15409843 | 15409844 | 15409845 | 15409846 | 15409855 | 15409856 | 15409857 | 15409858
+15409859 | 15409863 | 15409864 | 15409866 | 15409867 | 15409880 | 15409883 | 15409884 | 15409885 | 15409886
+15409887 | 15409896 | 15409907 | 15409912 | 15409917 | 15409918 | 15409927 | 15409928 | 15409936 | 15409938
+15409946 | 15409950 | 15409966 | 15409968 | 15409970 | 15409971 | 15409975 | 15409979 | 15409981 | 15409993
+15410004 | 15410005 | 15410006 | 15410007 | 15410008 | 15410009 | 15410016 | 15410017 | 15410022 | 15410023
+15410024 | 15410025 | 15410060 | 15410061 | 15410062 | 15410063 | 15410064 | 15410067 | 15410068 | 15410069
+15410070 | 15410072 | 15410074 | 15410087 | 15410088 | 15410089
+
+================================================================================
+CLUSTER 97 (N=68 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **66.100** | WARFARIN SODIUM / 68 ✅ |
+| 2    | WARFARIN / **1.000** | WARFARIN / 2 ✅ |
+| 3    | FUROSEMIDE / **0.100** | ASPIRIN / 1  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Adverse event / **67.000** | Adverse event / 68 ✅ |
+| 2    | International normalised ratio fluctuation / **0.500** | International normalised ratio fluctuation / 1 ✅ |
+| 3    | Thrombosis / **0.500** | Thrombosis / 1 ✅ |
+
+### FAERS Report IDs:
+14061273 | 14125288 | 14128162 | 14166747 | 14167122 | 14244628 | 14250373 | 14553703 | 14607493 | 14698278
+14730626 | 14740119 | 14749523 | 14772572 | 14773122 | 14797886 | 14857863 | 14939509 | 14942507 | 14946061
+14947113 | 14964223 | 14982163 | 14998683 | 15020536 | 15034476 | 15095048 | 15108154 | 15108192 | 15110080
+15111746 | 15168753 | 15234700 | 15273955 | 15273956 | 15279143 | 15283131 | 15307289 | 15309140 | 15321439
+15340408 | 15342719 | 15359696 | 15551981 | 15554438 | 15568748 | 15585581 | 15600912 | 15605262 | 15615966
+15616173 | 15624355 | 15642294 | 15642719 | 15650130 | 15652171 | 15660295 | 15681942 | 15707529 | 15727111
+15749903 | 15754578 | 15763948 | 15792138 | 15794979 | 15818731 | 15840170 | 15860443
+
+================================================================================
+CLUSTER 98 (N=23 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **21.000** | WARFARIN SODIUM / 21 ✅ |
+| 2    | WARFARIN / **2.000** | WARFARIN / 2 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Thrombosis / **23.000** | Thrombosis / 23 ✅ |
+
+### FAERS Report IDs:
+14069905 | 14091264 | 14155670 | 14185750 | 14258629 | 14370230 | 14370233 | 14485697 | 14601518 | 14899063
+15083132 | 15119101 | 15273866 | 15350480 | 15354240 | 15408196 | 15428587 | 15448613 | 15536916 | 15550588
+15564385 | 15570706 | 15652158
+
+================================================================================
+CLUSTER 99 (N=16 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **12.000** | WARFARIN SODIUM / 12 ✅ |
+| 2    | WARFARIN / **3.000** | WARFARIN / 3 ✅ |
+| 3    | CELECOXIB / **1.000** | CELECOXIB / 1 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Epistaxis / **15.500** | Epistaxis / 16 ✅ |
+| 2    | Thrombosis / **0.500** | Thrombosis / 1 ✅ |
+
+### FAERS Report IDs:
+14084317 | 14604730 | 14621981 | 14788495 | 14876363 | 14981472 | 15057558 | 15103843 | 15108160 | 15170844
+15188790 | 15350902 | 15450308 | 15462619 | 15462842 | 15475833
+
+================================================================================
+CLUSTER 100 (N=15 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **11.500** | WARFARIN SODIUM / 12 ✅ |
+| 2    | WARFARIN / **2.500** | WARFARIN / 3 ✅ |
+| 3    | COAGULATION FACTOR IX HUMAN_COAGULATION FACTOR VII HUMAN_COAGULATION FACTOR X HUMAN_PROTHROMBIN / **1.000** | COAGULATION FACTOR IX HUMAN_COAGULATION FACTOR VII HUMAN_COAGULATION FACTOR X HUMAN_PROTHROMBIN / 1 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Pulmonary embolism / **14.000** | Pulmonary embolism / 15 ✅ |
+| 2    | Deep vein thrombosis / **1.000** | Deep vein thrombosis / 2 ✅ |
+
+### FAERS Report IDs:
+14097523 | 14177449 | 14277754 | 14524915 | 14589397 | 15050154 | 15352126 | 15462438 | 15476384 | 15482103
+15504263 | 15659207 | 15719033 | 15747570 | 15808992
+
+================================================================================
+CLUSTER 101 (N=17 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **11.000** | WARFARIN SODIUM / 11 ✅ |
+| 2    | COAGULATION FACTOR IX HUMAN_COAGULATION FACTOR VII HUMAN_COAGULATION FACTOR X HUMAN_PROTHROMBIN / **4.000** | COAGULATION FACTOR IX HUMAN_COAGULATION FACTOR VII HUMAN_COAGULATION FACTOR X HUMAN_PROTHROMBIN / 4 ✅ |
+| 3    | WARFARIN / **2.000** | WARFARIN / 2 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Deep vein thrombosis / **17.000** | Deep vein thrombosis / 17 ✅ |
+
+### FAERS Report IDs:
+14538176 | 14662495 | 14752583 | 14966881 | 14967348 | 15095588 | 15132542 | 15314349 | 15343558 | 15501591
+15747549 | 15747563 | 15747651 | 15747665 | 15747670 | 15776944 | 15851506
+
+================================================================================
+CLUSTER 102 (N=17 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **16.000** | WARFARIN / 16 ✅ |
+| 2    | COAGULATION FACTOR IX HUMAN_COAGULATION FACTOR VII HUMAN_COAGULATION FACTOR X HUMAN_PROTEIN C_PROTEIN S HUMAN_PROTHROMBIN / **1.000** | COAGULATION FACTOR IX HUMAN_COAGULATION FACTOR VII HUMAN_COAGULATION FACTOR X HUMAN_PROTEIN C_PROTEIN S HUMAN_PROTHROMBIN / 1 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Haemorrhage intracranial / **17.000** | Haemorrhage intracranial / 17 ✅ |
+
+### FAERS Report IDs:
+14092416 | 14229111 | 14398840 | 14398856 | 14400538 | 14400545 | 14407781 | 14407785 | 14411349 | 14435446
+14892823 | 14911152 | 15018925 | 15304663 | 15356949 | 15462824 | 15476846
+
+================================================================================
+CLUSTER 103 (N=117 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **117.000** | WARFARIN SODIUM / 117 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Haemorrhage intracranial / **117.000** | Haemorrhage intracranial / 117 ✅ |
+
+### FAERS Report IDs:
+14375553 | 14375554 | 14375564 | 14375565 | 14375624 | 14375627 | 14524862 | 15336806 | 15409888 | 15409889
+15409890 | 15409891 | 15409892 | 15409894 | 15409895 | 15409905 | 15409906 | 15409908 | 15409909 | 15409910
+15409911 | 15409913 | 15409914 | 15409915 | 15409916 | 15409919 | 15409920 | 15409921 | 15409922 | 15409923
+15409924 | 15409925 | 15409926 | 15409929 | 15409933 | 15409934 | 15409935 | 15409937 | 15409943 | 15409944
+15409945 | 15409947 | 15409948 | 15409949 | 15409951 | 15409952 | 15409953 | 15409954 | 15409955 | 15409956
+15409961 | 15409962 | 15409967 | 15409969 | 15409972 | 15409973 | 15409974 | 15409976 | 15409977 | 15409978
+15409980 | 15409982 | 15409983 | 15409984 | 15409986 | 15409989 | 15409990 | 15409991 | 15409992 | 15410116
+15410119 | 15410140 | 15410141 | 15410142 | 15410143 | 15410144 | 15410150 | 15410151 | 15410153 | 15410155
+15410156 | 15410186 | 15410187 | 15410188 | 15410189 | 15410192 | 15410193 | 15410194 | 15410196 | 15410197
+15410213 | 15410215 | 15410220 | 15410221 | 15410222 | 15410225 | 15410226 | 15410227 | 15410228 | 15410229
+15410230 | 15410231 | 15410233 | 15410270 | 15410272 | 15410278 | 15410306 | 15410308 | 15410309 | 15410310
+15480334 | 15494428 | 15494429 | 15494441 | 15494442 | 15494444 | 15494445
+
+================================================================================
+CLUSTER 104 (N=32 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | TREPROSTINIL / **6.100** | TREPROSTINIL / 22 ✅ |
+| 2    | WARFARIN / **4.900** | WARFARIN / 18 ✅ |
+| 3    | TADALAFIL / **4.300** | TADALAFIL / 17 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Pneumonia / **32.000** | Pneumonia / 32 ✅ |
+
+### FAERS Report IDs:
+14012881 | 14108122 | 14149334 | 14215733 | 14235729 | 14286156 | 14328049 | 14337769 | 14403171 | 14418174
+14438975 | 14448946 | 14475922 | 14523946 | 14559087 | 14616124 | 14633129 | 14751559 | 14771836 | 14805769
+14847377 | 15053217 | 15116110 | 15139107 | 15259547 | 15273226 | 15466183 | 15551361 | 15572825 | 15640328
+15670577 | 15804947
+
+================================================================================
+CLUSTER 105 (N=21 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | FUROSEMIDE / **1.300** | FUROSEMIDE / 17 ✅ |
+| 2    | WARFARIN / **0.900** | WARFARIN / 13 ✅ |
+| 3    | WARFARIN SODIUM / **0.600** | ASPIRIN / 9  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Pneumonia / **21.000** | Pneumonia / 21 ✅ |
+
+### FAERS Report IDs:
+14072958 | 14147677 | 14434436 | 14434437 | 14475103 | 14483128 | 14610498 | 14849246 | 14892947 | 14941338
+15206448 | 15267862 | 15321888 | 15358950 | 15392343 | 15425364 | 15604857 | 15640711 | 15647186 | 15658528
+15671462
+
+================================================================================
+CLUSTER 106 (N=51 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **43.000** | WARFARIN SODIUM / 43 ✅ |
+| 2    | WARFARIN / **4.000** | WARFARIN / 4 ✅ |
+| 3    | COAGULATION FACTOR IX HUMAN_COAGULATION FACTOR VII HUMAN_COAGULATION FACTOR X HUMAN_PROTHROMBIN / **4.000** | COAGULATION FACTOR IX HUMAN_COAGULATION FACTOR VII HUMAN_COAGULATION FACTOR X HUMAN_PROTHROMBIN / 4 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Ischaemic stroke / **49.500** | Ischaemic stroke / 51 ✅ |
+| 2    | Traumatic intracranial haemorrhage / **1.000** | Traumatic intracranial haemorrhage / 2 ✅ |
+| 3    | Haemorrhagic stroke / **0.500** | Haemorrhagic stroke / 1 ✅ |
+
+### FAERS Report IDs:
+14119311 | 14231737 | 14601861 | 14626260 | 14626326 | 14818890 | 15080325 | 15094966 | 15094967 | 15094976
+15290880 | 15290931 | 15291024 | 15292191 | 15292198 | 15292200 | 15292202 | 15292203 | 15292218 | 15292221
+15292470 | 15292471 | 15292472 | 15292473 | 15292474 | 15292475 | 15292476 | 15292478 | 15292479 | 15292480
+15292481 | 15292482 | 15292484 | 15292485 | 15292486 | 15292487 | 15292488 | 15292489 | 15292490 | 15292491
+15292492 | 15292493 | 15292494 | 15292496 | 15292497 | 15359397 | 15747629 | 15748131 | 15748137 | 15748163
+15782051
+
+================================================================================
+CLUSTER 107 (N=35 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **28.000** | WARFARIN SODIUM / 28 ✅ |
+| 2    | WARFARIN / **6.000** | WARFARIN / 6 ✅ |
+| 3    | PEMBROLIZUMAB / **1.000** | PEMBROLIZUMAB / 1 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | International normalised ratio abnormal / **34.500** | International normalised ratio abnormal / 35 ✅ |
+| 2    | Prothrombin time abnormal / **0.500** | Prothrombin time abnormal / 1 ✅ |
+
+### FAERS Report IDs:
+14054931 | 14057750 | 14090904 | 14091596 | 14123384 | 14160867 | 14178957 | 14184700 | 14222412 | 14234109
+14490719 | 14528460 | 14530552 | 14533793 | 14575572 | 14575795 | 14607412 | 14607413 | 14668035 | 14672432
+14781962 | 14869428 | 14950252 | 15107910 | 15242180 | 15254048 | 15254053 | 15302167 | 15330017 | 15434483
+15683373 | 15687424 | 15698739 | 15703182 | 15769246
+
+================================================================================
+CLUSTER 108 (N=20 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **14.000** | WARFARIN SODIUM / 14 ✅ |
+| 2    | WARFARIN / **6.000** | WARFARIN / 6 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Cerebral haemorrhage / **19.500** | Cerebral haemorrhage / 20 ✅ |
+| 2    | Subdural haemorrhage / **0.500** | Subdural haemorrhage / 1 ✅ |
+
+### FAERS Report IDs:
+13802815 | 14278859 | 14375629 | 14498444 | 14573379 | 14579686 | 14610751 | 14690357 | 14690359 | 14958708
+14970001 | 15009535 | 15009651 | 15146319 | 15278673 | 15324087 | 15324103 | 15405080 | 15597261 | 15617163
+
+================================================================================
+CLUSTER 109 (N=26 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | RIVAROXABAN / **9.900** | RIVAROXABAN / 26 ✅ |
+| 2    | WARFARIN SODIUM / **9.300** | WARFARIN SODIUM / 25 ✅ |
+| 3    | ASPIRIN / **5.800** | ASPIRIN / 18 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Acute kidney injury / **11.300** | Acute kidney injury / 26 ✅ |
+| 2    | Gastrointestinal haemorrhage / **6.900** | Gastrointestinal haemorrhage / 17 ✅ |
+| 3    | Lower gastrointestinal haemorrhage / **2.000** | Epistaxis / 5  |
+
+### FAERS Report IDs:
+12130617 | 12344756 | 12512289 | 12512983 | 12514030 | 12681482 | 12766180 | 12808609 | 12987291 | 14000029
+14001165 | 14002595 | 14137516 | 14399999 | 14582366 | 14689812 | 14789011 | 15023603 | 15036736 | 15044651
+15056844 | 15119152 | 15402546 | 15414166 | 15621776 | 15646175
+
+================================================================================
+CLUSTER 110 (N=34 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **18.000** | WARFARIN / 18 ✅ |
+| 2    | WARFARIN SODIUM / **16.000** | WARFARIN SODIUM / 16 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Subdural haematoma / **25.000** | Subdural haematoma / 25 ✅ |
+| 2    | Subdural haemorrhage / **9.000** | Subdural haemorrhage / 9 ✅ |
+
+### FAERS Report IDs:
+14328329 | 14375521 | 14378327 | 14378328 | 14378333 | 14378334 | 14378338 | 14378339 | 14398839 | 14398843
+14398849 | 14398850 | 14398857 | 14407792 | 14407794 | 14575671 | 14613214 | 14677478 | 14716960 | 15018148
+15018902 | 15018993 | 15084728 | 15253783 | 15256635 | 15282833 | 15360872 | 15543768 | 15566546 | 15721983
+15722116 | 15722127 | 15722128 | 15722142
+
+================================================================================
+CLUSTER 111 (N=37 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | ESOMEPRAZOLE MAGNESIUM / **1.700** | ESOMEPRAZOLE MAGNESIUM / 30 ✅ |
+| 2    | LANSOPRAZOLE / **1.400** | LANSOPRAZOLE / 26 ✅ |
+| 3    | WARFARIN / **1.400** | WARFARIN / 26 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Chronic kidney disease / **37.000** | Chronic kidney disease / 37 ✅ |
+
+### FAERS Report IDs:
+14296691 | 14307138 | 14382727 | 14543009 | 14546525 | 14553625 | 14652809 | 14663194 | 14669305 | 14688463
+14691480 | 14711255 | 14764285 | 14838502 | 14849980 | 15096671 | 15151407 | 15160511 | 15165334 | 15204190
+15301255 | 15325515 | 15333582 | 15340216 | 15342769 | 15413763 | 15422028 | 15475122 | 15482313 | 15490137
+15506902 | 15699816 | 15723839 | 15749461 | 15841674 | 15842657 | 15860117
+
+================================================================================
+CLUSTER 112 (N=34 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | ASPIRIN / **2.100** | ASPIRIN / 27 ✅ |
+| 2    | WARFARIN SODIUM / **1.900** | WARFARIN SODIUM / 25 ✅ |
+| 3    | FUROSEMIDE / **1.700** | FUROSEMIDE / 23 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Gastrointestinal haemorrhage / **34.000** | Gastrointestinal haemorrhage / 34 ✅ |
+
+### FAERS Report IDs:
+11187615 | 11268491 | 11280876 | 11336240 | 11395873 | 11396473 | 11413574 | 11792079 | 11794705 | 11794764
+11795312 | 12000846 | 12337922 | 12345258 | 12348032 | 12348401 | 12348471 | 12734757 | 12825105 | 12910352
+12987395 | 13291072 | 13512861 | 14052873 | 14149376 | 14189136 | 14203489 | 14228038 | 14583893 | 14583935
+14837886 | 14997516 | 15621356 | 15674162
+
+================================================================================
+CLUSTER 113 (N=25 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | RIVAROXABAN / **7.500** | RIVAROXABAN / 25 ✅ |
+| 2    | ASPIRIN / **7.100** | ASPIRIN / 24 ✅ |
+| 3    | WARFARIN SODIUM / **6.500** | WARFARIN SODIUM / 22 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Gastrointestinal haemorrhage / **25.000** | Gastrointestinal haemorrhage / 25 ✅ |
+
+### FAERS Report IDs:
+11721567 | 11832149 | 11834651 | 12229155 | 12511818 | 12512440 | 12513405 | 12655388 | 12683910 | 12716648
+12731774 | 12766165 | 12948428 | 13455523 | 14209522 | 14209593 | 14210011 | 14269181 | 14356089 | 14399267
+14676786 | 15011158 | 15030570 | 15411973 | 15761236
+
+================================================================================
+CLUSTER 114 (N=26 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | RIVAROXABAN / **12.900** | RIVAROXABAN / 26 ✅ |
+| 2    | WARFARIN SODIUM / **10.800** | WARFARIN SODIUM / 22 ✅ |
+| 3    | WARFARIN / **2.000** | WARFARIN / 4 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Gastrointestinal haemorrhage / **26.000** | Gastrointestinal haemorrhage / 26 ✅ |
+
+### FAERS Report IDs:
+11612835 | 12513229 | 12514075 | 12515075 | 12515223 | 12515585 | 12515868 | 12732159 | 12765853 | 12910617
+13727888 | 13730423 | 13948881 | 14002262 | 14209498 | 14210945 | 14398920 | 14399518 | 14891737 | 15010880
+15014105 | 15014509 | 15136314 | 15214582 | 15411912 | 15669196
+
+================================================================================
+CLUSTER 115 (N=35 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **26.000** | WARFARIN SODIUM / 26 ✅ |
+| 2    | WARFARIN / **8.000** | WARFARIN / 8 ✅ |
+| 3    | SACUBITRIL_VALSARTAN / **1.000** | SACUBITRIL_VALSARTAN / 1 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Gastrointestinal haemorrhage / **35.000** | Gastrointestinal haemorrhage / 35 ✅ |
+
+### FAERS Report IDs:
+14140436 | 14310604 | 14465982 | 14465999 | 14466001 | 14526796 | 14536925 | 14554083 | 14582029 | 14687584
+14868421 | 14936944 | 14945120 | 14985902 | 15052991 | 15099766 | 15463292 | 15464095 | 15487119 | 15487120
+15487121 | 15487165 | 15487166 | 15487169 | 15487200 | 15487206 | 15487207 | 15487209 | 15515793 | 15543757
+15655027 | 15717296 | 15801225 | 15818721 | 15821657
+
+================================================================================
+CLUSTER 116 (N=40 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **37.000** | WARFARIN SODIUM / 37 ✅ |
+| 2    | WARFARIN / **3.000** | WARFARIN / 3 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Rectal haemorrhage / **40.000** | Rectal haemorrhage / 40 ✅ |
+
+### FAERS Report IDs:
+14456372 | 14456376 | 14456378 | 14456385 | 14456387 | 14456388 | 14456389 | 14456390 | 14456392 | 14456393
+14456394 | 14456398 | 14456441 | 14456442 | 14456443 | 14456444 | 14456445 | 14456446 | 14456469 | 14456470
+14456471 | 14456474 | 14456475 | 14456476 | 14456503 | 14456508 | 14465938 | 14465958 | 14465959 | 14465963
+14465964 | 14465965 | 14465966 | 14465968 | 14892802 | 14941360 | 14962252 | 15479481 | 15525082 | 15785494
+
+================================================================================
+CLUSTER 117 (N=30 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **28.000** | WARFARIN SODIUM / 28 ✅ |
+| 2    | WARFARIN / **2.000** | WARFARIN / 2 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Lower gastrointestinal haemorrhage / **29.500** | Lower gastrointestinal haemorrhage / 30 ✅ |
+| 2    | Rectal haemorrhage / **0.500** | Rectal haemorrhage / 1 ✅ |
+
+### FAERS Report IDs:
+14456217 | 14456218 | 14456233 | 14456234 | 14456235 | 14456236 | 14456267 | 14456268 | 14456269 | 14456270
+14456272 | 14456273 | 14456274 | 14456275 | 14456302 | 14456303 | 14456318 | 14456319 | 14456335 | 14456336
+14456337 | 14456338 | 14456343 | 14456345 | 14465960 | 14465984 | 14465985 | 14466000 | 15147286 | 15463408
+
+================================================================================
+CLUSTER 118 (N=32 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **32.000** | WARFARIN SODIUM / 32 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Haemorrhage / **32.000** | Haemorrhage / 32 ✅ |
+
+### FAERS Report IDs:
+14254890 | 14313951 | 14415400 | 14421760 | 14556226 | 14564406 | 14621502 | 14626017 | 14680249 | 14751570
+14781477 | 14889548 | 14889549 | 14955498 | 14957067 | 15146749 | 15171124 | 15225430 | 15324747 | 15345956
+15345958 | 15345980 | 15347671 | 15351397 | 15351428 | 15351548 | 15372553 | 15614735 | 15618913 | 15747635
+15805451 | 15859327
+
+================================================================================
+CLUSTER 119 (N=27 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **27.000** | WARFARIN / 27 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Haemorrhage / **27.000** | Haemorrhage / 27 ✅ |
+
+### FAERS Report IDs:
+14295034 | 14295040 | 14295051 | 14295068 | 14295086 | 14295103 | 14295118 | 14296319 | 14410533 | 14529311
+14529312 | 14529313 | 14529314 | 14529335 | 14529384 | 14529392 | 14726588 | 14781961 | 15018233 | 15018864
+15018877 | 15018892 | 15018995 | 15145735 | 15252319 | 15255157 | 15255294
+
+================================================================================
+CLUSTER 120 (N=62 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN SODIUM / **60.000** | WARFARIN SODIUM / 60 ✅ |
+| 2    | WARFARIN / **2.000** | WARFARIN / 2 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Upper gastrointestinal haemorrhage / **62.000** | Upper gastrointestinal haemorrhage / 62 ✅ |
+
+### FAERS Report IDs:
+14039939 | 14456061 | 14456070 | 14456071 | 14456072 | 14456073 | 14456082 | 14456083 | 14456090 | 14456091
+14456092 | 14456093 | 14456113 | 14456114 | 14456116 | 14456117 | 14456118 | 14456127 | 14456128 | 14456129
+14456130 | 14456139 | 14456140 | 14456141 | 14456148 | 14456149 | 14456150 | 14456151 | 14456152 | 14456159
+14456160 | 14456161 | 14456162 | 14456163 | 14456164 | 14456165 | 14456166 | 14456167 | 14456168 | 14456170
+14456171 | 14456172 | 14456173 | 14456185 | 14456186 | 14456187 | 14456188 | 14456189 | 14456194 | 14456196
+14456197 | 14456198 | 14456199 | 14456205 | 14456206 | 14456231 | 14456232 | 14456238 | 14465700 | 14912428
+15451133 | 15463672
+
+================================================================================
+CLUSTER 121 (N=61 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **60.000** | WARFARIN / 60 ✅ |
+| 2    | SACUBITRIL_VALSARTAN / **1.000** | SACUBITRIL_VALSARTAN / 1 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Anaemia / **7.400** | Haemorrhage / 30  |
+| 2    | Haemorrhage / **7.400** | International normalised ratio increased / 26  |
+| 3    | International normalised ratio increased / **5.100** | Anaemia / 22  |
+
+### FAERS Report IDs:
+11633638 | 14097008 | 14229107 | 14229404 | 14289695 | 14304337 | 14327634 | 14351968 | 14373306 | 14393891
+14415013 | 14415080 | 14415165 | 14415179 | 14474113 | 14481179 | 14489797 | 14490750 | 14492958 | 14494306
+14494623 | 14498103 | 14503287 | 14505681 | 14506345 | 14544341 | 14552067 | 14604761 | 14680946 | 14685930
+14842732 | 14918102 | 14984925 | 14997453 | 15003907 | 15089974 | 15251303 | 15251310 | 15251408 | 15254542
+15271010 | 15316392 | 15385030 | 15390935 | 15400769 | 15441067 | 15458699 | 15463551 | 15483366 | 15483987
+15493767 | 15592660 | 15592803 | 15593270 | 15607082 | 15621351 | 15621513 | 15642456 | 15750537 | 15802296
+15851329
+
+================================================================================
+CLUSTER 122 (N=19 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **18.000** | WARFARIN / 18 ✅ |
+| 2    | WARFARIN SODIUM / **1.000** | WARFARIN SODIUM / 1 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Gastric haemorrhage / **18.500** | Gastric haemorrhage / 19 ✅ |
+| 2    | Gastrointestinal haemorrhage / **0.500** | Gastrointestinal haemorrhage / 1 ✅ |
+
+### FAERS Report IDs:
+14092424 | 14145345 | 14168637 | 14242963 | 14347419 | 14347429 | 14351946 | 14467369 | 14489787 | 14514922
+14881847 | 15288734 | 15288875 | 15294938 | 15462115 | 15462735 | 15463447 | 15463656 | 15488848
+
+================================================================================
+CLUSTER 123 (N=13 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | METHOXY POLYETHYLENE GLYCOL-EPOETIN BETA / **0.800** | AMLODIPINE BESYLATE / 13  |
+| 2    | FUROSEMIDE / **0.800** | BISOPROLOL FUMARATE / 13  |
+| 3    | CALCITRIOL / **0.800** | FUROSEMIDE / 13  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Dry skin / **0.300** | Hypertension / 13  |
+| 2    | Hypertension / **0.300** | Pulmonary embolism / 13  |
+| 3    | Blood triglycerides increased / **0.300** | Pulmonary hypertension / 13  |
+
+### FAERS Report IDs:
+14963494 | 15307348 | 15308689 | 15315664 | 15331903 | 15341272 | 15361027 | 15392258 | 15393117 | 15395939
+15407320 | 15426059 | 15536912
+
+================================================================================
+CLUSTER 124 (N=348 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | ESOMEPRAZOLE MAGNESIUM / **13.100** | ESOMEPRAZOLE MAGNESIUM / 315 ✅ |
+| 2    | OMEPRAZOLE MAGNESIUM / **10.900** | OMEPRAZOLE MAGNESIUM / 252 ✅ |
+| 3    | PANTOPRAZOLE SODIUM / **10.000** | PANTOPRAZOLE SODIUM / 233 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Chronic kidney disease / **85.800** | Chronic kidney disease / 341 ✅ |
+| 2    | Acute kidney injury / **65.600** | Acute kidney injury / 283 ✅ |
+| 3    | Renal failure / **61.200** | Renal failure / 271 ✅ |
+
+### FAERS Report IDs:
+13008290 | 13075593 | 13087766 | 13103935 | 13103950 | 13111621 | 13117172 | 13120039 | 13122785 | 13127430
+13164132 | 13164236 | 13165289 | 13425220 | 13537270 | 13544061 | 13552748 | 13562413 | 13579453 | 13585857
+13590203 | 13592722 | 13675162 | 13700063 | 13793493 | 13814142 | 13875322 | 13977641 | 13995942 | 14164835
+14166425 | 14186669 | 14289602 | 14292041 | 14309471 | 14331381 | 14349622 | 14382830 | 14382845 | 14383976
+14398670 | 14398764 | 14401437 | 14401517 | 14422710 | 14457102 | 14470954 | 14484351 | 14502172 | 14519023
+14524530 | 14526474 | 14528882 | 14529389 | 14542872 | 14543001 | 14543147 | 14552188 | 14565905 | 14600206
+14602686 | 14606895 | 14606948 | 14611239 | 14611624 | 14612134 | 14613410 | 14613412 | 14616449 | 14619981
+14627068 | 14629747 | 14629748 | 14640376 | 14647718 | 14652736 | 14652769 | 14653396 | 14656174 | 14658361
+14665383 | 14665532 | 14665637 | 14665638 | 14669745 | 14672923 | 14672929 | 14675661 | 14676062 | 14684203
+14686347 | 14689544 | 14691447 | 14691537 | 14691566 | 14692604 | 14693358 | 14698923 | 14700488 | 14705581
+14705584 | 14705822 | 14705847 | 14705899 | 14706001 | 14706161 | 14707625 | 14708320 | 14708363 | 14708408
+14710042 | 14710834 | 14711236 | 14714755 | 14715187 | 14716297 | 14719636 | 14719637 | 14719705 | 14719788
+14720405 | 14720581 | 14721266 | 14721308 | 14723521 | 14725875 | 14727562 | 14728351 | 14728427 | 14729172
+14729178 | 14729932 | 14730149 | 14730179 | 14730379 | 14730578 | 14730595 | 14730773 | 14733663 | 14734370
+14735215 | 14735272 | 14735385 | 14735457 | 14735673 | 14736742 | 14737682 | 14737790 | 14739253 | 14740070
+14740084 | 14740085 | 14740228 | 14742074 | 14742210 | 14742381 | 14742440 | 14742813 | 14751086 | 14751538
+14755023 | 14755036 | 14756739 | 14757032 | 14757692 | 14758102 | 14759427 | 14759439 | 14760536 | 14760596
+14760606 | 14760649 | 14767925 | 14769607 | 14769655 | 14773855 | 14773916 | 14773932 | 14775269 | 14775490
+14775534 | 14778347 | 14778358 | 14780005 | 14780006 | 14780008 | 14780019 | 14780021 | 14783065 | 14783315
+14783499 | 14783831 | 14784640 | 14785097 | 14786744 | 14787428 | 14787842 | 14790329 | 14790395 | 14790482
+14790848 | 14790850 | 14791159 | 14791946 | 14794377 | 14795275 | 14795506 | 14795514 | 14798137 | 14799589
+14801778 | 14801784 | 14806123 | 14806172 | 14807161 | 14807163 | 14807535 | 14808754 | 14808794 | 14808898
+14813464 | 14817147 | 14817795 | 14820799 | 14820968 | 14821304 | 14821731 | 14823061 | 14824124 | 14825314
+14829341 | 14829674 | 14829892 | 14833257 | 14838187 | 14838588 | 14838683 | 14839203 | 14843430 | 14843431
+14843438 | 14843577 | 14848727 | 14849008 | 14849410 | 14854226 | 14854514 | 14854554 | 14858558 | 14868942
+14869893 | 14871573 | 14875865 | 14875968 | 14886018 | 14897650 | 14902182 | 14903864 | 14906904 | 14908681
+14909859 | 14910210 | 14914935 | 14920285 | 14920327 | 14920407 | 14924198 | 14924628 | 14925005 | 14925206
+14928007 | 14929881 | 14930062 | 14938838 | 14940561 | 14943562 | 14947307 | 14974596 | 14974597 | 14984940
+14997119 | 15014440 | 15035666 | 15037670 | 15050498 | 15059189 | 15060886 | 15062212 | 15062240 | 15076667
+15080922 | 15089881 | 15095543 | 15100638 | 15107836 | 15131154 | 15152595 | 15158547 | 15180574 | 15209257
+15215141 | 15278948 | 15279696 | 15315502 | 15335594 | 15359577 | 15385755 | 15389405 | 15391792 | 15405236
+15435799 | 15437977 | 15437987 | 15457222 | 15464911 | 15489381 | 15494113 | 15506928 | 15518532 | 15523952
+15561397 | 15572905 | 15589171 | 15595338 | 15621091 | 15624907 | 15627750 | 15651936 | 15656245 | 15665677
+15688329 | 15700359 | 15700558 | 15700783 | 15709865 | 15715727 | 15719600 | 15739786 | 15740410 | 15748626
+15751539 | 15754890 | 15762553 | 15779070 | 15834015 | 15841360 | 15842335 | 15862731
+
+================================================================================
+CLUSTER 125 (N=1016 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | WARFARIN / **101.500** | WARFARIN / 570 ✅ |
+| 2    | WARFARIN SODIUM / **85.100** | WARFARIN SODIUM / 490 ✅ |
+| 3    | TREPROSTINIL / **66.700** | MACITENTAN / 357  |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Dyspnoea / **36.400** | Dyspnoea / 598 ✅ |
+| 2    | Headache / **28.000** | Headache / 459 ✅ |
+| 3    | Diarrhoea / **26.600** | Diarrhoea / 447 ✅ |
+
+### FAERS Report IDs:
+10157759 | 10394945 | 10413344 | 10519390 | 10520066 | 10579151 | 10657508 | 10682183 | 10752736 | 10869485
+10885015 | 10902681 | 10967484 | 10979783 | 11049261 | 11069598 | 11116321 | 11124904 | 11138091 | 11138827
+11142541 | 11212626 | 11225293 | 11400050 | 11400809 | 11416776 | 11446188 | 11463023 | 11480621 | 11596858
+11599260 | 11625611 | 11625613 | 11643376 | 11669982 | 11707013 | 11720439 | 11742189 | 11743070 | 11746794
+11770351 | 11791697 | 11792123 | 11815987 | 11821205 | 11824674 | 11847068 | 11867589 | 11877284 | 11886363
+11927357 | 11939300 | 11939302 | 12010978 | 12011058 | 12060187 | 12073455 | 12075306 | 12088019 | 12089308
+12094171 | 12101016 | 12110253 | 12116559 | 12136794 | 12137584 | 12180055 | 12184026 | 12185326 | 12185328
+12192810 | 12197106 | 12214539 | 12225970 | 12231215 | 12235073 | 12249784 | 12271342 | 12278720 | 12279831
+12301070 | 12306278 | 12308020 | 12329232 | 12341887 | 12343401 | 12346207 | 12366264 | 12373306 | 12385480
+12389867 | 12395119 | 12399758 | 12464671 | 12465860 | 12481750 | 12496664 | 12498000 | 12500704 | 12504329
+12506465 | 12527645 | 12553023 | 12561875 | 12569505 | 12581286 | 12581287 | 12590336 | 12604803 | 12607639
+12610926 | 12623565 | 12626249 | 12635852 | 12635864 | 12645628 | 12653283 | 12665483 | 12669478 | 12687837
+12706633 | 12716222 | 12717221 | 12718602 | 12730149 | 12740123 | 12745240 | 12750640 | 12750668 | 12766526
+12769493 | 12776950 | 12783384 | 12790510 | 12812853 | 12812933 | 12821476 | 12822455 | 12831965 | 12833351
+12835780 | 12845607 | 12850871 | 12855459 | 12859663 | 12864542 | 12864836 | 12883485 | 12890751 | 12890752
+12904824 | 12904868 | 12908065 | 12913251 | 12917420 | 12919286 | 12924871 | 12940574 | 12940596 | 12945835
+12961853 | 12964622 | 12969555 | 12980218 | 12980638 | 12988504 | 12991869 | 12991881 | 13003692 | 13003699
+13007517 | 13020470 | 13020486 | 13024387 | 13028661 | 13029658 | 13031837 | 13032799 | 13032805 | 13036800
+13039787 | 13042848 | 13054684 | 13068882 | 13072238 | 13081844 | 13082391 | 13099251 | 13099269 | 13106556
+13106557 | 13108805 | 13115184 | 13115247 | 13123465 | 13132010 | 13132023 | 13135779 | 13135786 | 13137700
+13137735 | 13139037 | 13145611 | 13160195 | 13160231 | 13164928 | 13178505 | 13181690 | 13185807 | 13199819
+13227973 | 13243634 | 13256107 | 13261944 | 13278791 | 13278807 | 13286187 | 13291522 | 13299850 | 13301684
+13303592 | 13303622 | 13305992 | 13307699 | 13314479 | 13325196 | 13325214 | 13330998 | 13331151 | 13337817
+13339517 | 13339523 | 13347665 | 13347683 | 13352614 | 13360649 | 13360656 | 13366269 | 13368036 | 13375917
+13376880 | 13387760 | 13398419 | 13398436 | 13400622 | 13401823 | 13407202 | 13415033 | 13418501 | 13418521
+13422640 | 13424789 | 13424790 | 13428146 | 13428152 | 13429283 | 13433217 | 13448389 | 13450937 | 13455686
+13463625 | 13467504 | 13475452 | 13479691 | 13485941 | 13499878 | 13500690 | 13505371 | 13515549 | 13515551
+13515559 | 13518589 | 13524528 | 13528927 | 13531235 | 13533387 | 13533669 | 13535306 | 13537747 | 13554817
+13554840 | 13569985 | 13574706 | 13583021 | 13587404 | 13600408 | 13601544 | 13613317 | 13613383 | 13618797
+13622739 | 13631819 | 13633963 | 13639039 | 13642749 | 13644166 | 13648996 | 13651012 | 13652490 | 13661775
+13662123 | 13666016 | 13669236 | 13670489 | 13675176 | 13675227 | 13680205 | 13685161 | 13690257 | 13691695
+13694901 | 13695329 | 13695344 | 13695362 | 13697964 | 13707787 | 13708649 | 13710226 | 13714312 | 13717438
+13718783 | 13725052 | 13726154 | 13727219 | 13739247 | 13743531 | 13752656 | 13756152 | 13761197 | 13764232
+13765601 | 13767435 | 13778469 | 13778570 | 13779192 | 13784190 | 13785468 | 13794970 | 13795380 | 13802189
+13802212 | 13802232 | 13802263 | 13807440 | 13814224 | 13818807 | 13819791 | 13822684 | 13825531 | 13836361
+13842371 | 13856281 | 13858784 | 13867458 | 13874160 | 13875599 | 13877843 | 13879066 | 13881015 | 13883423
+13893996 | 13898797 | 13899105 | 13903721 | 13903765 | 13904190 | 13904429 | 13905064 | 13906693 | 13910983
+13916303 | 13921891 | 13922925 | 13930747 | 13930748 | 13939142 | 13940065 | 13940172 | 13942179 | 13942440
+13948327 | 13949839 | 13951870 | 13962024 | 13965426 | 13965742 | 13965744 | 13965747 | 13968078 | 13978052
+13978097 | 13978157 | 13982881 | 13983118 | 13984980 | 13988591 | 13989226 | 13993454 | 13995313 | 13998192
+14003333 | 14009019 | 14009861 | 14011702 | 14012389 | 14013716 | 14013764 | 14015796 | 14015834 | 14022077
+14022148 | 14023650 | 14024236 | 14026021 | 14030110 | 14035617 | 14040950 | 14043853 | 14054147 | 14055621
+14057784 | 14058135 | 14067289 | 14073315 | 14074098 | 14083784 | 14088318 | 14088362 | 14088401 | 14088414
+14088472 | 14088476 | 14092364 | 14092536 | 14093684 | 14095622 | 14096223 | 14099805 | 14099858 | 14100364
+14105354 | 14106886 | 14106931 | 14108834 | 14114327 | 14116037 | 14116420 | 14117052 | 14120880 | 14122501
+14122529 | 14126588 | 14127759 | 14127999 | 14131290 | 14132091 | 14133095 | 14143196 | 14143202 | 14147145
+14150333 | 14154544 | 14159646 | 14163142 | 14169174 | 14169202 | 14171120 | 14173951 | 14176104 | 14176146
+14176148 | 14178914 | 14179480 | 14181158 | 14182991 | 14183584 | 14184366 | 14184717 | 14184878 | 14187398
+14188619 | 14191902 | 14192115 | 14193287 | 14197152 | 14200992 | 14201768 | 14202321 | 14205052 | 14211690
+14211751 | 14216585 | 14216589 | 14217849 | 14221587 | 14221611 | 14223027 | 14225877 | 14227671 | 14228039
+14228050 | 14229764 | 14232749 | 14232976 | 14233115 | 14233203 | 14237426 | 14240929 | 14240971 | 14244820
+14247520 | 14248217 | 14252586 | 14253211 | 14259545 | 14265539 | 14265565 | 14265567 | 14265568 | 14272035
+14272641 | 14278702 | 14278870 | 14278971 | 14279832 | 14280058 | 14289419 | 14289463 | 14289468 | 14292674
+14298073 | 14299795 | 14308956 | 14314977 | 14317111 | 14320462 | 14325839 | 14329942 | 14333303 | 14334365
+14339084 | 14339104 | 14343467 | 14343910 | 14343929 | 14352207 | 14352477 | 14356499 | 14364223 | 14364788
+14367105 | 14368539 | 14368542 | 14368548 | 14368550 | 14371826 | 14372505 | 14374729 | 14378226 | 14378260
+14387134 | 14394177 | 14397899 | 14402525 | 14407694 | 14413646 | 14416440 | 14417671 | 14425220 | 14433807
+14435531 | 14435612 | 14435734 | 14435939 | 14436316 | 14436414 | 14436523 | 14436790 | 14436950 | 14438801
+14439230 | 14443775 | 14452350 | 14453276 | 14454437 | 14455103 | 14460927 | 14466354 | 14468197 | 14470774
+14470791 | 14474134 | 14476001 | 14481314 | 14482163 | 14482208 | 14488641 | 14488646 | 14491178 | 14495169
+14496541 | 14516248 | 14517314 | 14519039 | 14522504 | 14524118 | 14530632 | 14532179 | 14532183 | 14537416
+14537420 | 14543757 | 14553486 | 14559253 | 14567491 | 14568820 | 14569190 | 14572095 | 14573179 | 14574209
+14579420 | 14579421 | 14582295 | 14583734 | 14585249 | 14588043 | 14589748 | 14592848 | 14592907 | 14594660
+14598620 | 14598959 | 14601059 | 14602868 | 14605294 | 14605306 | 14606524 | 14608183 | 14608276 | 14609749
+14615194 | 14615200 | 14615202 | 14615203 | 14616101 | 14621747 | 14625659 | 14627939 | 14627944 | 14627966
+14629499 | 14630557 | 14630838 | 14633128 | 14633139 | 14636236 | 14639982 | 14644183 | 14644187 | 14647866
+14648405 | 14650230 | 14650742 | 14657074 | 14657099 | 14657114 | 14657120 | 14660928 | 14661473 | 14661488
+14664791 | 14668931 | 14669818 | 14676217 | 14681409 | 14681911 | 14681913 | 14681953 | 14682229 | 14682883
+14683702 | 14685488 | 14686436 | 14686768 | 14692609 | 14706536 | 14711643 | 14714979 | 14721139 | 14721321
+14723347 | 14724086 | 14727583 | 14729532 | 14730735 | 14731678 | 14731947 | 14732722 | 14738540 | 14738550
+14739000 | 14741527 | 14742140 | 14751329 | 14754004 | 14754018 | 14760046 | 14760911 | 14767381 | 14769016
+14774924 | 14776920 | 14783101 | 14786653 | 14788507 | 14799603 | 14807192 | 14807367 | 14808681 | 14816789
+14817096 | 14823169 | 14838394 | 14840041 | 14843743 | 14850031 | 14850984 | 14855951 | 14857947 | 14864591
+14873684 | 14877496 | 14877523 | 14880256 | 14891125 | 14891285 | 14891625 | 14892245 | 14892278 | 14892344
+14892359 | 14892417 | 14893299 | 14893888 | 14893897 | 14893951 | 14899247 | 14912903 | 14913951 | 14915734
+14920939 | 14920976 | 14922285 | 14925818 | 14925832 | 14928928 | 14935250 | 14935790 | 14936817 | 14937980
+14940702 | 14949326 | 14953701 | 14955802 | 14959908 | 14959949 | 14967440 | 14971279 | 14971302 | 14971571
+14976671 | 14980472 | 14980519 | 14986213 | 14987909 | 14991896 | 14998058 | 15010794 | 15025259 | 15030810
+15031023 | 15042500 | 15046431 | 15046456 | 15046492 | 15053013 | 15053187 | 15053221 | 15062020 | 15067259
+15077195 | 15077222 | 15077228 | 15084777 | 15104327 | 15104333 | 15107112 | 15107442 | 15122961 | 15127427
+15130067 | 15130724 | 15131419 | 15133272 | 15134646 | 15136592 | 15142293 | 15145085 | 15146670 | 15151471
+15151475 | 15154979 | 15163405 | 15167538 | 15173275 | 15175704 | 15175706 | 15175738 | 15175739 | 15175752
+15181050 | 15191370 | 15191888 | 15204420 | 15208402 | 15210023 | 15223312 | 15231482 | 15232207 | 15233692
+15236270 | 15237611 | 15244437 | 15245036 | 15251782 | 15257693 | 15262215 | 15262301 | 15267016 | 15273230
+15278145 | 15296157 | 15298340 | 15298718 | 15302562 | 15312997 | 15317617 | 15319128 | 15322741 | 15327112
+15327566 | 15334625 | 15336294 | 15336321 | 15336328 | 15339393 | 15340373 | 15341284 | 15347786 | 15353115
+15353467 | 15353472 | 15356147 | 15357711 | 15363372 | 15363410 | 15363435 | 15366932 | 15368333 | 15368341
+15370832 | 15372197 | 15372249 | 15383593 | 15387623 | 15395795 | 15398420 | 15398429 | 15402603 | 15402698
+15405544 | 15409042 | 15409324 | 15410600 | 15413458 | 15415187 | 15421495 | 15422255 | 15434443 | 15437766
+15453550 | 15453571 | 15453583 | 15456961 | 15456992 | 15457633 | 15460822 | 15460837 | 15460860 | 15462768
+15466363 | 15470046 | 15470049 | 15470072 | 15475439 | 15475471 | 15475478 | 15480400 | 15484972 | 15504548
+15518547 | 15525249 | 15525662 | 15526303 | 15526536 | 15531381 | 15532733 | 15539162 | 15543441 | 15547423
+15547820 | 15550391 | 15552487 | 15552501 | 15552516 | 15557187 | 15557850 | 15563446 | 15567677 | 15576828
+15576862 | 15583135 | 15585425 | 15586602 | 15588019 | 15588027 | 15599731 | 15599747 | 15601226 | 15603365
+15608657 | 15609174 | 15613613 | 15613915 | 15613916 | 15621390 | 15623904 | 15624643 | 15629400 | 15634646
+15634685 | 15635430 | 15639787 | 15640658 | 15640898 | 15641178 | 15642777 | 15643923 | 15644426 | 15645145
+15651569 | 15658491 | 15664465 | 15673359 | 15673484 | 15673506 | 15674631 | 15676781 | 15680499 | 15681465
+15686755 | 15686926 | 15689736 | 15696858 | 15699621 | 15701285 | 15701294 | 15701360 | 15706768 | 15706779
+15706789 | 15706815 | 15707737 | 15711323 | 15712772 | 15715447 | 15723732 | 15724956 | 15725683 | 15725684
+15728346 | 15730959 | 15736909 | 15736926 | 15738957 | 15742679 | 15748600 | 15762678 | 15762969 | 15763517
+15772289 | 15772314 | 15787497 | 15790809 | 15793408 | 15795325 | 15805931 | 15809136 | 15815181 | 15832656
+15839939 | 15844489 | 15844939 | 15852136 | 15864764 | 15864829
+
+================================================================================
+CLUSTER 126 (N=26 subjects)
+================================================================================
+
+### Top Drug Contributors
+| Rank | By RELEVANCE (Drug / Score) | By FREQUENCY (Drug / Count) |
+|:----:|:-------------------------------:|:-----------------------------:|
+| 1    | SULFASALAZINE / **2.400** | SULFASALAZINE / 26 ✅ |
+| 2    | ADALIMUMAB / **2.200** | WARFARIN SODIUM / 23  |
+| 3    | ETANERCEPT / **2.100** | ETANERCEPT / 23 ✅ |
+
+### Top PT Contributors
+| Rank | By RELEVANCE (PT / Score) | By FREQUENCY (PT / Count) |
+|:----:|:---------------------------:|:--------------------------:|
+| 1    | Drug ineffective / **1.200** | Drug ineffective / 26 ✅ |
+| 2    | Pain / **1.100** | Pain / 23 ✅ |
+| 3    | Rheumatoid arthritis / **0.900** | Rheumatoid arthritis / 20 ✅ |
+
+### FAERS Report IDs:
+12168841 | 12247551 | 12248361 | 12249911 | 12343872 | 12359545 | 12890710 | 12913686 | 13074395 | 13767761
+14185631 | 14191056 | 14198960 | 14222071 | 14227376 | 14235956 | 14398820 | 14658674 | 14737423 | 14762090
+14917304 | 15108415 | 15242808 | 15624422 | 15629364 | 15635108
